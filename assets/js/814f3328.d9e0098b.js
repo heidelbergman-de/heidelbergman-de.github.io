@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkheidelbergman_site=self.webpackChunkheidelbergman_site||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Neuigkeiten","items":[{"title":"Bilder 2022","permalink":"/blog/2022/08/23/Photos 2022"},{"title":"Docusaurus","permalink":"/blog/2022/08/22/Docusaurus"}]}')}}]);
