@@ -2,11 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.heidelbergman.de/blog</id>
     <title>HeidelbergMan Blog</title>
-    <updated>2022-09-15T00:00:00.000Z</updated>
+    <updated>2023-01-03T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.heidelbergman.de/blog"/>
     <subtitle>HeidelbergMan Blog</subtitle>
     <icon>https://www.heidelbergman.de/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Der HeidelbergMan 2023 - Interview mit Rennleiter Martin Schmidt]]></title>
+        <id>/2023/01/03/ RNZ Der HeidelbergMan ist zwar beliebt</id>
+        <link href="https://www.heidelbergman.de/blog/2023/01/03/ RNZ Der HeidelbergMan ist zwar beliebt"/>
+        <updated>2023-01-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Der HeidelbergMan ist zwar beliebt, jedoch sinken die Starterzahlen]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="der-heidelbergman-ist-zwar-beliebt-jedoch-sinken-die-starterzahlen">Der HeidelbergMan ist zwar beliebt, jedoch sinken die Starterzahlen<a class="hash-link" href="#der-heidelbergman-ist-zwar-beliebt-jedoch-sinken-die-starterzahlen" title="Direkter Link zur Überschrift">​</a></h2><p>Mit dem Fahrrad geht es auf knapp 36 Kilometern gleich zweimal den Königsstuhl hoch, bevor das Rennen mit einem Zehn-Kilometer-Lauf über den Philosophenweg endet.</p><p><img loading="lazy" alt="Martin" src="/assets/images/martin-4b525a431fa4a7942455e271b6637644.png" width="1934" height="940" class="img_ev3q"></p><p>Heidelberg. Der Heidelberger Triathlon – der HeidelbergMan – ist spektakulär: Die Teilnehmer schwimmen zuerst – in einzigartiger Kulisse an der Altstadt vorbei – 1,6 Kilometer durch den Neckar. Mit dem Fahrrad geht es dann auf knapp 36 Kilometern gleich zweimal den Königsstuhl hoch, bevor das Rennen mit einem Zehn-Kilometer-Lauf über den Philosophenweg endet.</p><p>Wegen der vielen zu bewältigenden Höhenmetern hat es diese Olympische Distanz in sich. Warum das eine gute Vorbereitung auf den Iron Man ist und wieso seit Corona die Teilnehmerzahl beim HeidelbergMan rückläufig ist, erklärt Rennleiter Martin Schmidt.</p><p><a href="https://www.rnz.de/region/heidelberg_artikel,-triathlon-der-heidelbergman-ist-zwar-beliebt-jedoch-sinken-die-starterzahlen-_arid,1032402.html" target="_blank" rel="noopener noreferrer">... weiter lesen in der RNZ</a></p>]]></content>
+        <author>
+            <name>Rhein Neckar Zeitung</name>
+            <uri>https://rnz.de</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Heart Racer Junior Triathlon 2022]]></title>
         <id>/2022/09/15/ Heart Racer Junior Triathlon 2022</id>
@@ -20,12 +32,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bilder 2022]]></title>
+        <title type="html"><![CDATA[Bilder vom HeidelbergMan 2022]]></title>
         <id>/2022/08/23/Photos 2022</id>
         <link href="https://www.heidelbergman.de/blog/2022/08/23/Photos 2022"/>
         <updated>2022-08-23T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Unser Partner larasch hat Eure Bilder >>online<<]]></summary>
-        <content type="html"><![CDATA[<p>Unser Partner larasch hat Eure Bilder <a href="https://events.larasch.de/heidelbergman/fotos" target="_blank" rel="noopener noreferrer">&gt;&gt;online&lt;&lt;</a></p><p><img loading="lazy" src="https://larasch.de/images/eventFiles/heidelbergman-2022/dsc3199-73330461.jpg" alt="Laura" class="img_ev3q"></p><p><img loading="lazy" src="https://larasch.de/images/eventFiles/heidelbergman-2022/dsc3112-73271882.jpg" alt="Malte" class="img_ev3q"></p><p><img loading="lazy" src="https://larasch.de/images/eventFiles/heidelbergman-2022/dsc3134-73303269.jpg" alt="Sebb" class="img_ev3q"></p>]]></content>
+        <summary type="html"><![CDATA[Unser Partner Larasch hat Eure Bilder >>online<<]]></summary>
+        <content type="html"><![CDATA[<p>Unser Partner Larasch hat Eure Bilder <a href="https://events.larasch.de/heidelbergman/fotos" target="_blank" rel="noopener noreferrer">&gt;&gt;online&lt;&lt;</a></p><p><img loading="lazy" src="https://larasch.de/images/eventFiles/heidelbergman-2022/dsc3199-73330461.jpg" alt="Laura" class="img_ev3q"></p><p><img loading="lazy" src="https://larasch.de/images/eventFiles/heidelbergman-2022/dsc3112-73271882.jpg" alt="Malte" class="img_ev3q"></p><p><img loading="lazy" src="https://larasch.de/images/eventFiles/heidelbergman-2022/dsc3134-73303269.jpg" alt="Sebb" class="img_ev3q"></p>]]></content>
         <author>
             <name>Stephan Klevenz</name>
             <uri>https://github.com/sklevenz</uri>
@@ -41,6 +53,18 @@
         <author>
             <name>Stephan Klevenz</name>
             <uri>https://github.com/sklevenz</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Der HeidelbergMan 2022]]></title>
+        <id>/2022/07/18/ RNZ HeidelberMan 2022</id>
+        <link href="https://www.heidelbergman.de/blog/2022/07/18/ RNZ HeidelberMan 2022"/>
+        <updated>2022-07-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Plappert und Jansen feiern Heimsiege]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="plappert-und-jansen-feiern-heimsiege">Plappert und Jansen feiern Heimsiege<a class="hash-link" href="#plappert-und-jansen-feiern-heimsiege" title="Direkter Link zur Überschrift">​</a></h2><p>Beim HeidelbergMan gewinnen zwei Lokalmatadore - Die Frauen des SV Nikar Heidelberg sind nicht zu schlagen</p><p><img loading="lazy" alt="HeidelbergMan 2022" src="/assets/images/heidelbergman2022-cbacdd66f782ed1c5822430003df7d22.jpeg" width="1920" height="1280" class="img_ev3q"></p><p>Heidelberg. Gute Freunde kann niemand trennen. Schon gar nicht ein Wettkampf. Diese alte Weisheit, die Franz Beckenbauer schon 1966 in einem Hit besang, sie gilt noch immer. Unter der Woche sind Kathrin Halter, Laura Jansen und Ursula Trützschler vom <a href="https://sv-nikar.de" target="_blank" rel="noopener noreferrer">SV Nikar Heidelberg</a> nämlich nicht nur in der selben Trainingsgruppe – die Triathlon-Damen verstehen sich auch privat bestens.</p><p><a href="https://www.rnz.de/sport/sportregional_artikel,-plappert-und-jansen-feiern-heimsiege-_arid,926869.html" target="_blank" rel="noopener noreferrer">... weiter lesen in der RNZ</a></p>]]></content>
+        <author>
+            <name>Rhein Neckar Zeitung</name>
+            <uri>https://rnz.de</uri>
         </author>
     </entry>
 </feed>
