@@ -2,11 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.heidelbergman.de/blog</id>
     <title>HEIDELBERGMAN Blog</title>
-    <updated>2023-12-23T00:00:00.000Z</updated>
+    <updated>2024-01-02T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.heidelbergman.de/blog"/>
     <subtitle>HEIDELBERGMAN Blog</subtitle>
     <icon>https://www.heidelbergman.de/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Die Anmeldung öffnet am 1. Januar 2024]]></title>
+        <id>https://www.heidelbergman.de/blog/2024/01/02/Offen</id>
+        <link href="https://www.heidelbergman.de/blog/2024/01/02/Offen"/>
+        <updated>2024-01-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Liebe Triathlet\*innen und Fans des HeidelbergMan,]]></summary>
+        <content type="html"><![CDATA[<p>Liebe Triathlet*innen und Fans des HeidelbergMan,</p>
+<p>die Anmeldung für den HeidelbergMan 2024 ist eröffnet. Sicher dir jetzt deinen Startplatz für den HeidelbergMan 2024 am 28. Juli 2024.</p>
+<p>Die Startgebüren sind wie folgt:</p>
+<table><thead><tr><th>Alle Teilnehmer*innen (alle Disziplinen insgesamt)</th><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td>Teilnehmer<!-- -->:in</td><td>Einzel</td><td>Einzel U25</td><td>Staffel</td><td>Staffel U25</td></tr><tr><td>1-200</td><td>99 €</td><td>69 €</td><td>119 €</td><td>89 €</td></tr><tr><td>201-400</td><td>109 €</td><td>79 €</td><td>129 €</td><td>99 €</td></tr><tr><td>ab 401</td><td>119 €</td><td>89 €</td><td>139 €</td><td>109 €</td></tr><tr><td>Nachmeldung vor Ort</td><td>130 €</td><td>130 €</td><td>150 €</td><td>150 €</td></tr></tbody></table>
+<p>Die Anmeldung findet ihr <a href="https://www.heidelbergman.de/Anmeldung/">hier</a>.
+Die Ausschreibung findet ihr <a href="https://www.heidelbergman.de/Wettkampf/Ausschreibung/">hier</a>.</p>
+<p>Wir freuen uns sehr, dass wir die Veranstaltung wieder aufleben lassen können und hoffen, dass wir euch alle wiedersehen werden.</p>]]></content>
+        <author>
+            <name>Orga Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Die Anmeldung öffnet am 1. Januar 2024]]></title>
         <id>https://www.heidelbergman.de/blog/2023/12/23/Anmeldung</id>
