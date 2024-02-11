@@ -2,11 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.heidelbergman.de/blog</id>
     <title>HEIDELBERGMAN Blog</title>
-    <updated>2024-02-06T00:00:00.000Z</updated>
+    <updated>2024-02-11T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.heidelbergman.de/blog"/>
     <subtitle>HEIDELBERGMAN Blog</subtitle>
     <icon>https://www.heidelbergman.de/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Heidelberger Dankeschein]]></title>
+        <id>https://www.heidelbergman.de/blog/2024/02/11/</id>
+        <link href="https://www.heidelbergman.de/blog/2024/02/11/"/>
+        <updated>2024-02-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Staffel]]></summary>
+        <content type="html"><![CDATA[<p><img alt="Staffel" src="https://www.heidelbergman.de/assets/images/RundUm-db71697998623e3c35e8824f2c3ff0b5.jpeg" width="950" height="250"></p>
+<p>🔥Heidelberger Dankeschein🔥</p>
+<p>Wir wollen uns bei allen Frauen für die Teilnahme am Instagram &amp; Facebook Gewinnspiel bedanken! 🫶🏼 Leider kann nur EINE von euch gewinnen. Wir haben dennoch eine kleines Angebot für die Nicht-Gewinnerinnen. 🤗</p>
+<p>Dank @vielmehr.heidelberg können wir den nächsten 10 Einzelstarterinnen nach deren Anmeldung einen 10 € Heidelberger Dankeschein schenken! 🎁</p>
+<p>Mit dem Heidelberger Dankeschein kannst du in über 165 Akzeptanzstellen nach Herzenslust shoppen, schlemmen oder dich verwöhnen lassen und so gleichzeitig die lokalen Geschäfte in Heidelberg unterstützen. Perfekt, um den Start beim HDman mit einem Wochenende in Heidelberg zu verbinden! 😍</p>
+<p>Wir hoffen viele von euch an der Startlinie zu treffen! 👋🏼</p>
+<p>Die 10 Gewinnerinnen der Dankescheine werden nächste Woche via Mail kontaktiert. 📧</p>
+<p>🔥RACE DAY: 28.07.2024🔥
+📍Heidelberg</p>
+<p>🚀Feiert mit uns das 30. JUBILÄUM🚀</p>]]></content>
+        <author>
+            <name>Orga Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Staffelbörse]]></title>
         <id>https://www.heidelbergman.de/blog/2024/02/06/Staffelboerse</id>
