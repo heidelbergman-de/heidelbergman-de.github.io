@@ -2,11 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.heidelbergman.de/blog</id>
     <title>HEIDELBERGMAN Blog</title>
-    <updated>2024-02-11T00:00:00.000Z</updated>
+    <updated>2024-06-03T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.heidelbergman.de/blog"/>
     <subtitle>HEIDELBERGMAN Blog</subtitle>
     <icon>https://www.heidelbergman.de/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Einzelanmelung voll]]></title>
+        <id>https://www.heidelbergman.de/blog/2024/06/03/</id>
+        <link href="https://www.heidelbergman.de/blog/2024/06/03/"/>
+        <updated>2024-06-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Staffel]]></summary>
+        <content type="html"><![CDATA[<p><img src="https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/447623790_1180715643363429_68050129543513312_n.jpg?stp=dst-jpg_s1080x2048&amp;_nc_cat=105&amp;ccb=1-7&amp;_nc_sid=5f2048&amp;_nc_ohc=lRc0b_VuPbAQ7kNvgGu2cf5&amp;_nc_ht=scontent-fra3-1.xx&amp;oh=00_AYBNM5PojPviQZ_uuK0Tadev6ZPFg8mgYh648u-93biLsQ&amp;oe=6663533E" alt="Staffel"></p>
+<p>🥳 WIR SIND VOLL! 🥳</p>
+<p>💪🏻 Alle Einzelstartplätze sind vergeben, aber ihr könnt euch immer noch mit eurer Familie oder Freunden für eine Staffel anmelden. 🏊🏻🚴🏽‍♂️🏃🏼‍♀️
+Unsere Vorfreude auf das Event steigt mit jedem Tag und wir freuen uns, dass ihr dabei seid!!⚡🎉🏁</p>
+<p>🔥RACE DAY: 28.07.2024 🔥</p>
+<p>📍Heidelberg</p>
+<p>🚀Feiert mit uns das 30. JUBILÄUM🚀</p>]]></content>
+        <author>
+            <name>Orga Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Heidelberger Dankeschein]]></title>
         <id>https://www.heidelbergman.de/blog/2024/02/11/</id>
