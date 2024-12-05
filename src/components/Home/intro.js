@@ -8,9 +8,9 @@ export default function GradientIntroDiv() {
           <b>HEIDEL</b>BERG<b>MAN</b>
         </h1>
         <p style={{ fontSize: "medium" }}>
-          Herzlich willkommen beim HEIDELBERGMAN, dem vielleicht schönsten und
-          anspruchsvollsten City-Triathlon über die Olympische Distanz.{" "}
-          <br></br>
+          Herzlich willkommen beim Heidelberg Triathlon, dem vielleicht
+          schönsten und anspruchsvollsten City-Triathlon über die Olympische
+          Distanz. <br></br>
           Heidelberg, eine Stadt zwischen Tradition und Moderne, ist der stolze
           Gastgeber dieses Triathlon-Festivals, bei dem sowohl Freizeitsportler
           als auch Weltklasseathleten zu einem packenden Wettkampf
