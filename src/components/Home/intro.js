@@ -21,9 +21,9 @@ export default function GradientIntroDiv() {
           charmante Altstadt, hinauf zum majestätischen Königstuhl und
           schließlich 10 km Laufen am Philosophenweg mit einem atemberaubenden
           Blick auf Heidelberg. <br></br>
-          Der HEIDELBERGMAN stellt die Teilnehmer*innen vor herausfordernde
-          Aufgaben und verspricht ein unvergessliches Erlebnis inmitten dieser
-          einzigartigen Kulisse.
+          Der Heidelberg Triathlon stellt die Teilnehmer*innen vor
+          herausfordernde Aufgaben und verspricht ein unvergessliches Erlebnis
+          inmitten dieser einzigartigen Kulisse.
         </p>
       </div>
       <div className={styles.rightDiv}>
