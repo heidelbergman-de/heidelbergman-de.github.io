@@ -15,12 +15,12 @@ export default function GradientIntroDiv() {
           Gastgeber dieses Triathlon-Festivals, bei dem sowohl Freizeitsportler
           als auch Weltklasseathleten zu einem packenden Wettkampf
           zusammenkommen. <br></br>
-          Die anspruchsvolle Strecke des HEIDELBERGMAN führt die Athleten durch
-          1.600 m Schwimmen im malerischen Neckar, 36 km Rennradfahren vorbei an
-          begeisterten Zuschauern entlang des Neckars, durch die charmante
-          Altstadt, hinauf zum majestätischen Königstuhl und schließlich 10 km
-          Laufen am Philosophenweg mit einem atemberaubenden Blick auf
-          Heidelberg. <br></br>
+          Die anspruchsvolle Strecke des Heidelberg Triathlon führt die Athleten
+          durch 1.600 m Schwimmen im malerischen Neckar, 36 km Rennradfahren
+          vorbei an begeisterten Zuschauern entlang des Neckars, durch die
+          charmante Altstadt, hinauf zum majestätischen Königstuhl und
+          schließlich 10 km Laufen am Philosophenweg mit einem atemberaubenden
+          Blick auf Heidelberg. <br></br>
           Der HEIDELBERGMAN stellt die Teilnehmer*innen vor herausfordernde
           Aufgaben und verspricht ein unvergessliches Erlebnis inmitten dieser
           einzigartigen Kulisse.
