@@ -49,10 +49,20 @@ body {
     #92a0dc
   );
   color: white;
+  text-decoration: none;
 }
 .navbar__link,
 .navbar__title {
   color: white;
+  text-decoration: none;
+}
+.dropdown__link {
+  text-decoration: none;
+}
+
+.navbar__brand {
+  color: white;
+  text-decoration: none;
 }
 
 .navbar-sidebar__brand {
