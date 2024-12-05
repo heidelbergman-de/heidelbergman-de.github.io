@@ -7,7 +7,7 @@ const lightCodeTheme = require("prism-react-renderer/themes/github");
 const config = {
   title: "Heidelberg Triathlon",
   tagline: "Triathlon",
-  url: "https://www.heidelbergman.de",
+  url: "https://hdtristage.github.io",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
