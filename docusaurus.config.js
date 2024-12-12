@@ -7,11 +7,11 @@ const lightCodeTheme = require("prism-react-renderer/themes/github");
 const config = {
   title: "Heidelberg Triathlon",
   tagline: "Triathlon",
-  url: "https://hdtristage.github.io",
+  url: "https://www.heidelberg-triathlon.de",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
-  favicon: "img/HDtri_mini.ico",
+  favicon: "img/favicon.ico",
   trailingSlash: true,
 
   // GitHub pages deployment config.
@@ -28,7 +28,7 @@ const config = {
     locales: ["de"],
   },
   customFields: {
-    HDLogo: "img/logo/hdman_logo_new.png",
+    HDLogo: "img/logo/hdtri_logo_bg.png",
   },
   presets: [
     [

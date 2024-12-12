@@ -5,7 +5,7 @@ export default function GradientIntroDiv() {
     <div className={styles.gradientDiv}>
       <div className={styles.leftDiv}>
         <h1 style={{ fontWeight: "normal" }}>
-          <b>HEIDEL</b>BERG<b>MAN</b>
+          <b>HEIDEL</b>BERG <b>TRIATHLON</b>
         </h1>
         <p style={{ fontSize: "medium" }}>
           Herzlich willkommen beim Heidelberg Triathlon, dem vielleicht
