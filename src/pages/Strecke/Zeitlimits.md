@@ -6,7 +6,7 @@ title: Zeitlimits
 
 # Zeitlimits
 
-Beim HeidelbergMan gelten folgende Zeitlimits:
+Beim Heidelberg-Triathlon gelten folgende Zeitlimits:
 
 * Schwimmen	40 Minuten
 * Radfahren 120 Minuten

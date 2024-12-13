@@ -12,7 +12,7 @@ title: Sponsoren
 
 
 
-Als eine der führenden mittelständischen Wirtschaftsprüfungs- und Steuerberatungsgesellschaften in Deutschland mit Unternehmenssitz in Heidelberg und mehreren Standorten in der Metropolregion Rhein-Neckar, ist FALK der Region auch sportlich stark verbunden. Zur Freude des SV Nikar Heidelberg e.V. wird das Unternehmen in diesem Jahr nicht nur mit Staffeln und Einzelstartern bei der Triathlon-Traditionsveranstaltung am Start sein, sondern auch als Sponsor dem HeidelbergMan den Rücken stärken. 
+Als eine der führenden mittelständischen Wirtschaftsprüfungs- und Steuerberatungsgesellschaften in Deutschland mit Unternehmenssitz in Heidelberg und mehreren Standorten in der Metropolregion Rhein-Neckar, ist FALK der Region auch sportlich stark verbunden. Zur Freude des SV Nikar Heidelberg e.V. wird das Unternehmen in diesem Jahr nicht nur mit Staffeln und Einzelstartern bei der Triathlon-Traditionsveranstaltung am Start sein, sondern auch als Sponsor dem Heidelberg-Triathlon den Rücken stärken. 
 
 <table style={{ border: "none" }}>
     <tr style={{ border: "none" }}>

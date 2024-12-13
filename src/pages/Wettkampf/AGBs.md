@@ -1,12 +1,12 @@
 ---
-title: Allgemeine Geschäftsbedingungen HeidelbergMan
+title: Allgemeine Geschäftsbedingungen Heidelberg-Triathlon
 ---
 
 Aus Gründen der besseren Lesbarkeit und Verständlichkeit wird im Folgenden die männliche Form verwendet. Entsprechende Begriffe gelten grundsätzlich für alle Geschlechter.
 
 **§ 1 Voraussetzungen**
 
-1.  Teilnehmen kann jeder, der sich ordnungsgemäß angemeldet und akkreditiert hat und in Besitz einer offiziellen Startnummer des HeidelbergMan ist.
+1.  Teilnehmen kann jeder, der sich ordnungsgemäß angemeldet und akkreditiert hat und in Besitz einer offiziellen Startnummer des Heidelberg-Triathlon ist.
 
 2.  Zugelassen sind für den Einzelwettbewerb alle, die im Veranstaltungsjahr 18 Jahre alt werden und alle, die älter sind. Für die Staffelwettbewerbe gelten die Altersgrenzen aus der Ausschreibung. Teilnehmer unter 18 Jahren benötigen die unterschriebene Einverständniserklärung eines Erziehungsberechtigten. Eine Vereinsmitgliedschaft ist nicht erforderlich.
 

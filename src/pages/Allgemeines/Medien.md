@@ -7,6 +7,10 @@ info: Die Bilder liegen auf dem Google Drive von Stephan Klevenz und sind öffen
 
 # Bilder und Medien
 
+## HeidelbergMan 2024
+[Larasch](https://events.larasch.de/heidelbergman/fotos)
+
+
 ## HeidelbergMan 2018
 
 * Quelle: [Foto LaRaSch](https://larasch.de/)

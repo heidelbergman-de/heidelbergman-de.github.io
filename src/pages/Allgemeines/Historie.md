@@ -6,7 +6,7 @@ title: Historie
 
 ## Die Anfänge
 
-Im Jahr 1990 hatten Uli Köhler und Klemens Kirchner von der Triathlonabteilung des SV Nikar Heidelberg eine visionäre Idee: Einen Triathlon in Heidelberg zu veranstalten. Damals war der Sport noch kaum bekannt, doch der erste Wettkampf am 16. Juni 1990 war ein voller Erfolg. 235 Starter absolvierten den ersten HeidelbergMan. Der Beginn einer Traditionsveranstaltung
+Im Jahr 1990 hatten Uli Köhler und Klemens Kirchner von der Triathlonabteilung des SV Nikar Heidelberg eine visionäre Idee: Einen Triathlon in Heidelberg zu veranstalten. Damals war der Sport noch kaum bekannt, doch der erste Wettkampf am 16. Juni 1990 war ein voller Erfolg. 235 Starter absolvierten den ersten 'Heidelberg Triathlon'. Der Beginn einer Traditionsveranstaltung
 
 ## Die Strecken
 
@@ -18,16 +18,16 @@ Auch die Laufstrecke hat sich entwickelt. Anfangs führte sie durch die Handschu
 
 ## Kontinuität und Veränderung
 
-Von 1993 bis 1995 pausierte der Triathlon. Erst ab 1996 fanden sich neue Organisatoren, die den Triathlon wieder ins Leben riefen. Für viele Jahre wurde der HeidelbergMan vom SV Nikar Heidelberg und dem Skiclub Heidelberg gemeinschaftlich ausgetragen. Von 1996 bis 2020 wurde der Triathlon ohne Unterbrechung durchgeführt, bis die Corona-Pandemie die Veranstaltung zu einer einjährigen Pause zwang. Nach schwierigen Austragungen in den Jahren 2021 und 2022, die noch unter dem Zeichen der Coronapandemie standen, hat die Veranstaltung in 2023 ein weiteres Jahr pausiert. Ab diesem Jahr sorgt ein neues Organisationsteam für frischen Wind und plant das 30. Jubiläum des HeidelbergMan.
+Von 1993 bis 1995 pausierte der Triathlon. Erst ab 1996 fanden sich neue Organisatoren, die den Triathlon wieder ins Leben riefen. Für viele Jahre wurde der HeidelbergMan vom SV Nikar Heidelberg und dem Skiclub Heidelberg gemeinschaftlich ausgetragen. Von 1996 bis 2020 wurde der Triathlon ohne Unterbrechung durchgeführt, bis die Corona-Pandemie die Veranstaltung zu einer einjährigen Pause zwang. Nach schwierigen Austragungen in den Jahren 2021 und 2022, die noch unter dem Zeichen der Coronapandemie standen, hat die Veranstaltung in 2023 ein weiteres Jahr pausiert. Ab diesem Jahr sorgt ein neues Organisationsteam für frischen Wind und plant das 30. Jubiläum des HeidelbergMan. Im Jahr 2025 kehrt der HeidelberMan nun zu seinem Urprung zurück und wird wieder unter dem Namen 'Heidelberg Triathlon' ausgetragen.
 
-Der HeidelbergMan behauptet sich in einem Umfeld, das zunehmend durch kommerzielle Eventagenturen geprägt wird, wie in Frankfurt, Darmstadt und Heilbronn. Trotzdem bleibt er ein von Vereinen organisiertes Event, das auf die Unterstützung der lokalen Gemeinschaft setzt. Darauf sind wir sehr stolz!
+Der Heidelberg Triathlon behauptet sich in einem Umfeld, das zunehmend durch kommerzielle Eventagenturen geprägt wird, wie in Frankfurt, Darmstadt und Heilbronn. Trotzdem bleibt er ein von Vereinen organisiertes Event, das auf die Unterstützung der lokalen Gemeinschaft setzt. Darauf sind wir sehr stolz!
 
 ## Ein Blick auf die Sieger
 
-Der HeidelbergMan gilt als Sprungbrett für große Karrieren. Bereits einige deutsche Hawaii-Sieger gewannen zuvor in Heidelberg: Mit Thomas Hellriegel (1991), Normann Stadler (2002, 2007), Sebastian Kienle (2006, 2008, 2009), Patrick Lange (2013, 2014, 2016) und Anne Haug (2017) gab es bereits fünf Sieger des HeidelbergMan, die in den darauffolgenden Jahren auch den Thron des prestigeträchtigsten Triathlons der Welt erklimmen konnten.
+Der Heidelberg Triathlon gilt als Sprungbrett für große Karrieren. Bereits einige deutsche Hawaii-Sieger/ Ironman-Weltmeister gewannen zuvor in Heidelberg: Mit Thomas Hellriegel (1991), Normann Stadler (2002, 2007), Sebastian Kienle (2006, 2008, 2009), Patrick Lange (2013, 2014, 2016) und Anne Haug (2017) und Laura Phillip gab es bereits sechs Sieger des HeidelbergMan, die in den darauffolgenden Jahren auch den Thron des prestigeträchtigsten Triathlons der Welt erklimmen konnten.
 
-Auch weitere große Namen konnten sich bereits auf dem Siegertreppchen wiederfinden. Neben der Heidelberger Triathlon-Legende Katja Schumacher, die als Rekordsiegerin den HeidelbergMan achtmal gewinnen konnte, konnten auch weitere große Namen wie Andreas Böcherer, Timo Bracht, Florian Angert und Laura Philipp sich auf der Siegerliste verewigen.
+Auch weitere große Namen konnten sich bereits auf dem Siegertreppchen wiederfinden. Neben der Heidelberger Triathlon-Legende Katja Schumacher, die als Rekordsiegerin den Heidelberg Triathlon achtmal gewinnen konnte, konnten auch weitere große Namen wie Andreas Böcherer, Timo Bracht, Florian Angert und Mika Noodt sich auf der Siegerliste verewigen.
 
 ## Fazit
 
-Der HeidelbergMan ist und bleibt ein bedeutendes Event im deutschen Triathlonsport, das sowohl erfahrene Athleten als auch Nachwuchstalente anzieht und inspiriert. Mit seiner anspruchsvollen Strecke und der langen Tradition ist er ein Highlight im Sportkalender und ein Symbol für die Verbindung von Sport und Gemeinschaft in der Studentenstadt Heidelberg.
+Der Heidelberg Triathlon ist und bleibt ein bedeutendes Event im deutschen Triathlonsport, das sowohl erfahrene Athleten als auch Nachwuchstalente anzieht und inspiriert. Mit seiner anspruchsvollen Strecke und der langen Tradition ist er ein Highlight im Sportkalender und ein Symbol für die Verbindung von Sport und Gemeinschaft in der Studentenstadt Heidelberg.

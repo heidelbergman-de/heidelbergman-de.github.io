@@ -8,7 +8,7 @@ title: Radstrecke
 
 Die Radstrecke ist zwar nur 36 Kilometer lang, aber sie hat es dank der 900 Höhenmeter in sich. Zweifelsohne gehört sie mit zu den anspruchsvollsten Radstrecken auf der olympischen Distanz.
 
-![Heidelbergman Radstrecke-Hohenprofil](/img/pages/strecke/Radstrecke.png)
+![Heidelberg-Triathlon Radstrecke-Hohenprofil](/img/pages/strecke/Radstrecke.png)
 
 ### Strecken-Beschreibung
 

@@ -53,7 +53,7 @@ Franzi, Johannes, Juliane, Felix, Simon, David, Emilia, Julien, Chris, Doro, Fre
             Über Juliane laufen alle Einnahmen und Ausgaben. 💸 \
             Felix ist unser Ansprechpartner, wenn es um Sponsoren und Partner geht. 🤝🏻 \
             Zu ihren Aufgaben gehört es: \
-            das Konto mit den Start-/ und Sponsorengeldern zu verwalten und somit alle Finanzen im Blick zu behalten. Des Weiteren gehören die Sponsorenakquise/-betreuung und die Gestaltung der Heidelbergman Triathlon Expo zu ihren Aufgabengebieten.
+            das Konto mit den Start-/ und Sponsorengeldern zu verwalten und somit alle Finanzen im Blick zu behalten. Des Weiteren gehören die Sponsorenakquise/-betreuung und die Gestaltung der Heidelberg-Triathlon Triathlon Expo zu ihren Aufgabengebieten.
         </td>
         <td style={{ border: "none", padding: "10px" }}>
             <img src="/img/pages/orga/Finanzen_1mdpi.png" alt="Finanzen"  />
@@ -64,7 +64,7 @@ Franzi, Johannes, Juliane, Felix, Simon, David, Emilia, Julien, Chris, Doro, Fre
             <img src="/img/pages/orga/neckarvorland-2mdpi.jpg" alt="Neckarvorland"  />
         </td>
         <td style={{ border: "none", padding: "10px", width: "20vw" }}>
-            Julien und Felix sind die Ansprechpartner für die Wechselzone und den Zielbereich des Heidelbergman. 🔁 🏁 \
+            Julien und Felix sind die Ansprechpartner für die Wechselzone und den Zielbereich des Heidelberg-Triathlon. 🔁 🏁 \
             Zu ihren Aufgaben gehört es: \
             die Wechselzone zu koordinieren. Zudem sorgen sie im Zielbereich für Entertainment und Verpflegung der Athleten/Zuschauer während sowie nach dem Wettkampf.         
         </td>
@@ -74,7 +74,7 @@ Franzi, Johannes, Juliane, Felix, Simon, David, Emilia, Julien, Chris, Doro, Fre
             Emilia, Franzi und Simon betreuen unseren Instagram und Facebook Account. 🤳🏼 \
             David gestaltet unsere Website. 🌐🛜 \
             Zu ihren Aufgaben gehört hauptsächlich: \
-            die Gestaltung von Posts, Stories, Reels sowie Beiträgen über Social Media und unserer Website. Sie repräsentieren damit die Online-Präsenz des Heidelbergman.
+            die Gestaltung von Posts, Stories, Reels sowie Beiträgen über Social Media und unserer Website. Sie repräsentieren damit die Online-Präsenz des Heidelberg-Triathlon.
         </td>
         <td style={{ border: "none", padding: "10px" }}>
             <img src="/img/pages/orga/socialmediamdpi.jpg" alt="Socialmedia"  />
@@ -96,7 +96,7 @@ Hinter uns steht ein großes Team an Helfer\*innen, die uns bei der Organisation
 
 ## Kontakt zum Orga Team
 
-Der HeidelbergMan wird vom SV Nikar Heidelberg organisiert. Ihr habt Fragen an das Orga-Team? Dann schreibt uns bitte per E-Mail. Hier findet Ihr die richtigen Ansprechpartner für Eure Fragen:
+Der Heidelberg-Triathlon wird vom SV Nikar Heidelberg organisiert. Ihr habt Fragen an das Orga-Team? Dann schreibt uns bitte per E-Mail. Hier findet Ihr die richtigen Ansprechpartner für Eure Fragen:
 
 - **Allgemeine Anfragen:** [info@heidelbergman.de](mailto:info@heidelbergman.de)
 - **Haupt-Organisatoren:** [hauptorga@heidelbergman.de](mailto:hauptorga@heidelbergman.de)
