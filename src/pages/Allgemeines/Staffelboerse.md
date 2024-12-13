@@ -11,6 +11,6 @@ Hey, willst du beim Heidelberg-Triathlon mitmachen, aber dir fehlt noch ein Team
 * [Facebook](https://www.facebook.com/reel/2035560146825733) 
 und schau in die Kommentare oder schreib ein Kommentar. 
 
-Alternativ kannst du uns einfach eine Mail an [staffelboerse(at)heidelbergman.de](mailto:staffelboerse@heidelbergman.de) schreiben und wir helfen dir, ein passendes Team zu finden.
+Alternativ kannst du uns einfach eine Mail an [staffelboerse(at)heidelberg-triathlon.de](mailto:staffelboerse@heidelberg-triathlon.de) schreiben und wir helfen dir, ein passendes Team zu finden.
 
 Wir wünschen dir viel Erfolg bei der Suche und freuen uns, dich beim Heidelberg-Triathlon begrüßen zu dürfen!

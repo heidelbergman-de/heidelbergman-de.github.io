@@ -23,6 +23,6 @@ Die Laufstrecke hat insgesamt 160 Höhenmeter und ist teilweise schattig. Übrig
 - Laufstrecke 2024 als [GPX-Datei](/gpx/Laufstrecke.gpx)
 
 <!-- - [Alte Laufstrecke auf Garmin.com](http://connect.garmin.com/modern/activity/520624408) -->
-  <!-- * [Laufstrecke als GPX](https://www.heidelbergman.de/images/files/Heidelbergman_Laufstrecke.gpx) -->
-  <!-- * [Laufstrecke als TCX](https://www.heidelbergman.de/images/files/Heidelbergman_Laufstrecke.tcx) -->
-  <!-- * [Laufstrecke als KML](https://www.heidelbergman.de/images/files/Heidelbergman_Laufstrecke.kml) -->
+  <!-- * [Laufstrecke als GPX](https://www.heidelberg-triathlon.de/images/files/Heidelbergman_Laufstrecke.gpx) -->
+  <!-- * [Laufstrecke als TCX](https://www.heidelberg-triathlon.de/images/files/Heidelbergman_Laufstrecke.tcx) -->
+  <!-- * [Laufstrecke als KML](https://www.heidelberg-triathlon.de/images/files/Heidelbergman_Laufstrecke.kml) -->

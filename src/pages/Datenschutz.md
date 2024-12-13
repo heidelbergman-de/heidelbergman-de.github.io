@@ -13,8 +13,8 @@ Diese Datenschutzerklärung klärt Sie über die Art, den Umfang und Zweck der V
 SV Nikar Heidelberg eV<br></br>
 Tiergartenstraße 13/2<br></br>
 69121 Heidelberg<br></br>
-Email: info(at)heidelbergman.de<br></br>
-Impressum: https://www.heidelbergman.de/impressum
+Email: info(at)heidelberg-triathlon.de<br></br>
+Impressum: https://www.heidelberg-triathlon.de/impressum
 
 ## Arten der verarbeiteten Daten:
 

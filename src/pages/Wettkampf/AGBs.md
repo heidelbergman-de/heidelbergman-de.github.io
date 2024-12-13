@@ -22,7 +22,7 @@ Aus Gründen der besseren Lesbarkeit und Verständlichkeit wird im Folgenden die
 
 **§ 3 Vertragsschluss**
 
-1.  Die Anmeldung, die die verbindliche Zusage des Teilnehmers an der Veranstaltung darstellt, ist nur über das Anmeldeformular der ONLINE-Anmeldung unter https://www.heidelbergman.de möglich.
+1.  Die Anmeldung, die die verbindliche Zusage des Teilnehmers an der Veranstaltung darstellt, ist nur über das Anmeldeformular der ONLINE-Anmeldung unter https://www.heidelberg-triathlon.de möglich.
 
 2.  Jeder Teilnehmer kann nur sich selbst einmal anmelden. Doppelte Anmeldungen werden nicht akzeptiert.
 
