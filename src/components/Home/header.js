@@ -14,13 +14,13 @@ const floatingDivs = [
   //   text: "Melde dich jetzt an...",
   //   button_text: "Anmeldung",
   //   button_link: "https://heidelbergman2024.racepedia.de/",
-  // }, 
+  // },
   {
     img_path: "img/startpage/header/s03.png",
-    headline: "Ergebnisse",
-    text: "Ergebnisse 2024...",
-    button_text: "Ergebnisse",
-    button_link: "https://heidelbergman2024.racepedia.de/",
+    headline: "Ausschreibung",
+    text: "Ausschreibung für 2025...",
+    button_text: "Ausschreibung",
+    button_link: "/Wettkampf/Ausschreibung",
   },
   {
     img_path: "img/startpage/header/s01.png",
@@ -78,26 +78,26 @@ export default function HomepageHeader() {
 
   const HDLogo = siteConfig.customFields.HDLogo;
 
-  const targetDate = new Date("2024-01-01T11:00:00.000Z").getTime();
+  const targetDate = new Date("2025-01-01T09:00:00.000Z").getTime();
 
   const anmeldeButton = (
     <div className={styles.buttons}>
       <div className={styles.button}>
         <Link
           className="button button--primary button--lg"
-          to="https://heidelbergman2024.racepedia.de/ergebnisse"
+          to="https://heidelberg-triathlon-2025.racepedia.de/"
         >
-          Ergebnisse
+          Anmeldung
         </Link>
       </div>
-      <div className={styles.button}>
+      {/* <div className={styles.button}>
         <Link
           className="button button--primary button--lg"
           to="https://larasch.de/fotoportal?1#9b7da5df-94b9-4610-abec-dda533e97b4f"
         >
           Race-Bilder
         </Link>
-      </div>
+      </div> */}
     </div>
   );
 
@@ -114,13 +114,13 @@ export default function HomepageHeader() {
 
         <h1 className={styles.headerTagline}> Sonntag, 27. Juli 2025</h1>
 
-        {/* <CountdownTimer
+        <CountdownTimer
           targetDate={targetDate}
           text="Die Anmeldung öffnet in"
           expiredNotice={anmeldeButton}
-        /> */}
+        />
 
-        {anmeldeButton}
+        {/* {anmeldeButton} */}
 
         <div className={styles.floatingHeaderDivGroup}>
           {floatingDivs.map((div, index) => (
