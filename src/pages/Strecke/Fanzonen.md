@@ -12,7 +12,7 @@ Seid ihr bereit, die Athleten anzufeuern und richtig Stimmung zu machen? Dann se
 
 ### Alte Brücke
 
-Kommt in die **HDperformance / Aera Fitness Fanzone**!
+Kommt in die **Fanzone**!
 
 Hier könnt ihr die Athleten anfeuern, ihnen zujubeln und sie auf ihrem Weg zum Schwimmstart, beim Schwimmen oder beim Radfahren über die Brücke unterstützen. Die Alte Brücke ist ein wichtiger Punkt auf der Strecke und bietet eine tolle Aussicht auf den Neckar und die Altstadt.
 
@@ -22,7 +22,7 @@ Hier könnt ihr die Athleten anfeuern, ihnen zujubeln und sie auf ihrem Weg zum 
 
 ### Radstrecke
 
-Feuert an der Klingenteichstraße die Athleten an der **VeloLand Brand Bergwertung** an! 
+Feuert an der Klingenteichstraße die Athleten an der **Bergwertung** an! 
 
 Hier könnt ihr die Athleten auf ihrem Weg zum Königstuhl anfeuern und ihnen die nötige Motivation geben, um am steilen Anstiege alles zu geben.
 Die Alethen kommen hier zweimal vorbei, also habt ihr die Möglichkeit, sie gleich doppelt anzufeuern.
@@ -33,7 +33,7 @@ Die Alethen kommen hier zweimal vorbei, also habt ihr die Möglichkeit, sie glei
 
 ### Laufstrecke
 
-Gebt bei der letzten Disziplin nochmal alles und feuert die Athleten auf dem Weg zum Philosophenweg an der **FALK-Fanzone** an!
+Gebt bei der letzten Disziplin nochmal alles und feuert die Athleten auf dem Weg zum Philosophenweg an der **Fanzone** an!
 
 Kurz vorm Philosophenweg könnt ihr die Athleten anfeuern und ihnen die nötige Motivation geben, um die letzten Kilometer zu bewältigen. 
 Auch hier habt ihr die Möglichkeit, die Athleten mehrmals anzufeuern, und ihnen auf dem Hin- und Rückweg nochmal richtig Motivation für die letzen Kilometer zu geben.
