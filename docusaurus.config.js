@@ -295,7 +295,7 @@ const config = {
           title: "DTU",
           items: [
             {
-              html: '<img src="/img/misc/DTU_HDMan2024.png" width="114" height="51" />',
+              html: '<img src="/img/misc/DTU_HDTri2025.png" width="114" height="51" />',
             },
           ],
         },
