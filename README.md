@@ -45,43 +45,43 @@ If you are using GitHub pages for hosting, this command is a convenient way to b
 
 ## DNS Settings
 
-The github pages default site is `heidelbergman-de.github.io`. Actually the site is accessible via custom domain `heidelbergman.de`. The DNS service is configured in the following way: 
+The github pages default site is `heidelbergman-de.github.io`. Actually the site is accessible via custom domain `heidelberg-triathlon.de`. The DNS service is configured in the following way: 
 
-### APEX Domain: heidelbergman.de
+### APEX Domain: heidelberg-triathlon.de
 
 #### A Record
 
 ```
-dig heidelbergman.de +nostats +nocomments +nocmd -t A
+dig heidelberg-triathlon.de +nostats +nocomments +nocmd -t A
 
-; <<>> DiG 9.10.6 <<>> heidelbergman.de +nostats +nocomments +nocmd -t A
+; <<>> DiG 9.10.6 <<>> heidelberg-triathlon.de +nostats +nocomments +nocmd -t A
 ;; global options: +cmd
-;heidelbergman.de.		IN	A
-heidelbergman.de.	824	IN	A	185.199.108.153
+;heidelberg-triathlon.de.		IN	A
+heidelberg-triathlon.de.	824	IN	A	185.199.108.153
 ```
 
 #### AAAA Record
 
 ```
-dig heidelbergman.de +nostats +nocomments +nocmd -t AAAA
+dig heidelberg-triathlon.de +nostats +nocomments +nocmd -t AAAA
 
-; <<>> DiG 9.10.6 <<>> heidelbergman.de +nostats +nocomments +nocmd -t AAAA
+; <<>> DiG 9.10.6 <<>> heidelberg-triathlon.de +nostats +nocomments +nocmd -t AAAA
 ;; global options: +cmd
-;heidelbergman.de.		IN	AAAA
-heidelbergman.de.	3600	IN	AAAA	2606:50c0:8000::153```
+;heidelberg-triathlon.de.		IN	AAAA
+heidelberg-triathlon.de.	3600	IN	AAAA	2606:50c0:8000::153```
 ```
 
-### Sub Domain: www.heidelbergman.de
+### Sub Domain: www.heidelberg-triathlon.de
 
 #### CNAME Record
 
 ```
-dig www.heidelbergman.de +nostats +nocomments +nocmd
+dig www.heidelberg-triathlon.de +nostats +nocomments +nocmd
 
-; <<>> DiG 9.10.6 <<>> www.heidelbergman.de +nostats +nocomments +nocmd
+; <<>> DiG 9.10.6 <<>> www.heidelberg-triathlon.de +nostats +nocomments +nocmd
 ;; global options: +cmd
-;www.heidelbergman.de.		IN	A
-www.heidelbergman.de.	3335	IN	CNAME	heidelbergman-de.github.io.
+;www.heidelberg-triathlon.de.		IN	A
+www.heidelberg-triathlon.de.	3335	IN	CNAME	heidelbergman-de.github.io.
 heidelbergman-de.github.io. 3335 IN	A	185.199.108.153
 heidelbergman-de.github.io. 3335 IN	A	185.199.111.153
 heidelbergman-de.github.io. 3335 IN	A	185.199.109.153
@@ -93,20 +93,20 @@ heidelbergman-de.github.io. 3335 IN	A	185.199.110.153
 #### Organization TXT Record
 
 ```
-dig _github-challenge-heidelbergman-de-org.heidelbergman.de +nostats +nocomments +nocmd TXT
-; <<>> DiG 9.10.6 <<>> _github-challenge-heidelbergman-de-org.heidelbergman.de +nostats +nocomments +nocmd TXT
+dig _github-challenge-heidelbergman-de-org.heidelberg-triathlon.de +nostats +nocomments +nocmd TXT
+; <<>> DiG 9.10.6 <<>> _github-challenge-heidelbergman-de-org.heidelberg-triathlon.de +nostats +nocomments +nocmd TXT
 ;; global options: +cmd
-;_github-challenge-heidelbergman-de-org.heidelbergman.de. IN TXT
-_github-challenge-heidelbergman-de-org.heidelbergman.de. 3591 IN TXT "86673483c0"
+;_github-challenge-heidelbergman-de-org.heidelberg-triathlon.de. IN TXT
+_github-challenge-heidelbergman-de-org.heidelberg-triathlon.de. 3591 IN TXT "86673483c0"
 ```
 
 #### Pages TXT Record
 
 ```
-dig _github-pages-challenge-heidelbergman-de.heidelbergman.de +nostats +nocomments +nocmd TXT
+dig _github-pages-challenge-heidelbergman-de.heidelberg-triathlon.de +nostats +nocomments +nocmd TXT
 
-; <<>> DiG 9.10.6 <<>> _github-pages-challenge-heidelbergman-de.heidelbergman.de +nostats +nocomments +nocmd TXT
+; <<>> DiG 9.10.6 <<>> _github-pages-challenge-heidelbergman-de.heidelberg-triathlon.de +nostats +nocomments +nocmd TXT
 ;; global options: +cmd
-;_github-pages-challenge-heidelbergman-de.heidelbergman.de. IN TXT
-_github-pages-challenge-heidelbergman-de.heidelbergman.de. 3600	IN TXT "7d4e6a2896f9cd3203329e96984729"
+;_github-pages-challenge-heidelbergman-de.heidelberg-triathlon.de. IN TXT
+_github-pages-challenge-heidelbergman-de.heidelberg-triathlon.de. 3600	IN TXT "7d4e6a2896f9cd3203329e96984729"
 ```
