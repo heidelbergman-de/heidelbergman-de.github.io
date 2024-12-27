@@ -99,7 +99,7 @@ export default function SponsorSection() {
       <div className={styles.sponsorSectionButton}></div>
       <Link
         className={`button button--primary button--lg button--outline button--block ${styles.sponsorButton}`}
-        to="mailto:sponsoring@heidelbergman.de"
+        to="mailto:sponsoring@heidelberg-triathlon.de"
       >
         Sie möchten den HEIDELBERG TRIATHLON gerne unterstützen? <br />
         Dann klicken Sie einfach hier und schicken Sie uns eine Nachricht. Wir
