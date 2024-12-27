@@ -11,6 +11,8 @@
   display: flex;
   justify-content: space-between;
   color: white;
+  z-index: 2;
+  position: relative;
 }
 
 .leftDiv {

@@ -123,6 +123,8 @@
 
 .floatingHeaderDivButtonStyle {
   font-size: small;
+  padding-left: clamp(0.5vw, 1.5vw, 2vw);
+  padding-right: clamp(0.5vw, 1.5vw, 2vw);
 }
 
 .headerBackgroundVideo {
