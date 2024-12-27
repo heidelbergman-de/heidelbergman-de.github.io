@@ -98,7 +98,7 @@
   margin-top: 1rem;
   display: flex;
   flex-direction: column;
-  width: 25vh;
+  /* width: 25vh; */
   max-height: 20vh;
 }
 
