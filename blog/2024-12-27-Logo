@@ -1,0 +1,14 @@
+---
+title: Der HeidelbergMan wird zum Heidelberg Triathlon
+authors: [orga]
+---
+
+![Staffel](/blog/20241227-newlogo.png)
+
+HeidelbergMan oder HeidelbergWoman? Triathlon ist für alle - das ist eines unserer Mottos. Um diesem auch in unseren Außendarstellung gerecht zu werden, haben wir uns entschieden unseren Wettkampf ab 2025 nicht mehr unter dem Namen HeidelbergMan zu veranstalten. Ab heute sind wir der Heidelberg Triathlon. Und zu unserem neuen Name gibt es auch direkt ein neues Logo, dass widerspiegelt was wir an Heidelberg so lieben. Aber dazu in einem anderen Post mehr. 
+
+Ansonsten bleibt unsere Veranstaltung natürlich die gleiche. Schwimmen im Neckar 🏊🏻‍♀️, 2x hinauf zum Königstuhl 🚴🏻‍♀️🚴🏼,  laufen am Philosophenweg 🏃🏻‍♀️🏃🏻und Organisation mit ganz viel Herz ❤️ Den Titel der vllt härtesten Kurzdistanz Deutschlands und einen Platz unter den 33 legendärsten Rennen, die man als Triathlet*in gemacht haben sollte wollen wir nämlich behalten! 
+
+Wer bei der ersten Austragung unter neuem Namen dabei sein will,  sollte sich jetzt den 1.1. in den Kalendar schreiben. Dann wird unsere Anmeldung öffnen! 
+
+Stay tuned und bis zum 27. Juli 🌞
