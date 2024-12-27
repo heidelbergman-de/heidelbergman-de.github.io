@@ -47,6 +47,7 @@
 .floatingHeaderDivGroup {
   display: flex;
   margin-top: auto;
+  margin-bottom: 0.5rem;
   background-color: linear-gradient(
     to bottom,
     rgba(255, 255, 255, 0),
@@ -56,7 +57,7 @@
   justify-content: center;
   align-items: center;
   border-radius: 0%;
-  overflow: hidden;
+  overflow: visible;
   flex-wrap: wrap; /* Add flex-wrap to wrap the floating divs on narrow displays */
 }
 
@@ -65,22 +66,31 @@
   background-color: var(--custom-hover-div-background-color);
   margin-right: 1rem;
   margin-left: 1rem;
-  margin-bottom: 1rem;
+  margin-bottom: 0.5rem;
   border-radius: 10%;
   display: flex;
   align-items: top;
   height: 20vh;
+  width: 26vw;
+  max-width: 30rem;
 }
 
 .floatingDivRoundImageContainer {
-  height: 15rem;
+  /* height: 15rem; */
   border-radius: 10%;
+  content: "";
+  display: block;
+  padding-top: (height / width) * 100%;
 }
 
 .floatingHeaderDivImage {
   border-radius: 10%;
-  width: 20vh;
-  height: 20vh;
+  position: relative;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
 }
 
 .floatingHeaderDivTextField {
@@ -93,6 +103,7 @@
 }
 
 .floatingHeaderDivTextHeader {
+  font-size: clamp(1rem, 1.5vw, 1.5rem);
 }
 
 .floatingHeaderDivTextDesc {
@@ -102,7 +113,7 @@
   overflow: hidden;
   text-overflow: ellipsis;
   max-height: 10rem;
-  font-size: small;
+  font-size: clamp(0.5rem, 1vw, 1rem);
 }
 
 .floatingHeaderDivButton {
@@ -160,6 +171,8 @@
     height: auto;
     flex-direction: column;
     background-color: rgba(255, 255, 255, 0);
+    max-width: auto;
+    width: auto;
   }
   .floatingHeaderDivImage {
     display: none;
@@ -198,6 +211,8 @@
     height: auto;
     flex-direction: column;
     background-color: rgba(255, 255, 255, 0);
+    max-width: auto;
+    width: auto;
   }
   .floatingHeaderDivImage {
     display: none;
