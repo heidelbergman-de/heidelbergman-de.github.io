@@ -15,7 +15,7 @@ export default function Home({ recentPosts }) {
   return (
     <Layout
       title={`${siteConfig.title} - ${siteConfig.tagline}`}
-      description="HEIDELBERGMAN Triathlon"
+      description="Heidelberg Triathlon"
     >
       <HomepageHeader />
       <main>
