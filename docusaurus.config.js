@@ -271,7 +271,7 @@ const config = {
             },
             {
               label: "Instagram",
-              href: "https://www.instagram.com/heidelberg_man/",
+              href: "https://www.instagram.com/heidelbergtriathlon/",
             },
             {
               label: "Youtube",
