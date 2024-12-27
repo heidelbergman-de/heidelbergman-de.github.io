@@ -73,6 +73,7 @@
   height: 20vh;
   width: 26vw;
   max-width: 30rem;
+  box-shadow: 0 0 15px 5px var(--custom-hover-div-background-color);
 }
 
 .floatingDivRoundImageContainer {
@@ -175,6 +176,7 @@
     background-color: rgba(255, 255, 255, 0);
     max-width: auto;
     width: auto;
+    box-shadow: none;
   }
   .floatingHeaderDivImage {
     display: none;
@@ -215,6 +217,7 @@
     background-color: rgba(255, 255, 255, 0);
     max-width: auto;
     width: auto;
+    box-shadow: none;
   }
   .floatingHeaderDivImage {
     display: none;
