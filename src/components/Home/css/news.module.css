@@ -39,6 +39,10 @@
   background-color: var(--custom-hover-div-background-color);
 }
 
+.newsCardLinkLink {
+  color: white;
+}
+
 @media (max-width: 768px) {
   .carouselContainer {
     width: 98%;

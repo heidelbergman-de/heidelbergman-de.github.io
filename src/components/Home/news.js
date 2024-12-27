@@ -7,12 +7,14 @@ import useBaseUrl from "@docusaurus/useBaseUrl";
 import styles from "./css/news.module.css";
 
 const NewsCard = React.forwardRef(({ id, content, metadata }, ref) => {
-  let first500Chars = content
-    .replace(/\(([^)]+)\)|\[([^]]+)\]/g, "").replace(/\[(.*?)\]|\!|\[|\]/g, "")
-    .substring(0, 500)
-    .split("\n")
-    .filter((line) => !line.trim().startsWith("|"))
-    .join("\n") + "...";
+  let first500Chars =
+    content
+      .replace(/\(([^)]+)\)|\[([^]]+)\]/g, "")
+      .replace(/\[(.*?)\]|\!|\[|\]/g, "")
+      .substring(0, 500)
+      .split("\n")
+      .filter((line) => !line.trim().startsWith("|"))
+      .join("\n") + "...";
 
   const firstImg = content.match(/!\[.*\]\((.*)\)/);
   var new_img_url = null;
@@ -26,8 +28,6 @@ const NewsCard = React.forwardRef(({ id, content, metadata }, ref) => {
         .replace("./", metadata.permalink + "/");
     }
   }
-
-  
 
   const imageSrc = new_img_url || "img/header/no_img.jpg";
 
@@ -45,7 +45,11 @@ const NewsCard = React.forwardRef(({ id, content, metadata }, ref) => {
         </div>
       </Card.Body>
       <Card.Footer className={styles.newsCardLink}>
-        <Link variant="primary" to={metadata.permalink}>
+        <Link
+          variant="primary"
+          to={metadata.permalink}
+          className={styles.newsCardLinkLink}
+        >
           Mehr...
         </Link>
       </Card.Footer>
