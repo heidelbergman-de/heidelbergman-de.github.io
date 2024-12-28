@@ -38,10 +38,11 @@ const floatingDivs = [
   // },
   {
     img_path: "img/startpage/header/s02.png",
-    headline: "Fanzone",
-    text: "Anfeueren, Musik, Bands, Gute Stimmung...",
-    button_text: "Fanzonen",
-    button_link: "/Strecke/Fanzonen/",
+    headline: "Hilf mit",
+    text: "Hilf mit und werde Helfer...",
+    button_text: "Hilf mit!",
+    button_link:
+      "https://docs.google.com/forms/d/e/1FAIpQLSf5CXVYr5MeiyXFXk8wXa-If2KhJK4iS5b3rnyoOJ8d5WIzAw/viewform",
   },
 ];
 
