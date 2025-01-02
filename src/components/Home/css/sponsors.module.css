@@ -4,6 +4,8 @@
   text-align: center;
   margin: 2rem;
   padding: 2rem;
+  z-index: 2;
+  position: relative;
 }
 
 .sponsorSectionButton {
@@ -25,8 +27,6 @@
   word-wrap: break-word;
 }
 
-
-
 .sponsorSectionLogos {
   /* display: flex; */
   justify-content: center;
@@ -34,7 +34,7 @@
   /* flex-wrap: wrap; */
 }
 
-.sponsorSubSectionLogos{
+.sponsorSubSectionLogos {
 }
 
 .sponsorMainLogo {
@@ -42,7 +42,6 @@
   height: auto;
   margin: 2rem;
 }
-
 
 .sponsorGoldLogo {
   width: 30vh;

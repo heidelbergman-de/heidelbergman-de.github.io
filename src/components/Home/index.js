@@ -19,10 +19,10 @@ export default function Home({ recentPosts }) {
     >
       <HomepageHeader />
       <main>
+        <SponsorSection />
         <GradientIntroDiv />
         <NewsCarousel recentPosts={recentPosts} />
         <ImageGallery />
-        <SponsorSection />
       </main>
     </Layout>
   );
