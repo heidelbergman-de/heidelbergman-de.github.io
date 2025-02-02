@@ -3,7 +3,7 @@ title: Finde deine Staffel
 authors: [orga]
 ---
 
-![Staffel](/blog/20250202_staffelbörse.png)
+![Staffel](/blog/20250202_staffelboerse.png)
 
 Die Anmeldung läuft auf Hochtouren und so viele von euch haben sich schon ihr Ticket für den 27. Juli gesichert. 
 Bei den Einzelstartplätze sind aktuell schon 500 Teilnehmende gemeldet.
