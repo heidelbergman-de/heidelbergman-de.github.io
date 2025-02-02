@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.heidelberg-triathlon.de/blog</id>
     <title>Heidelberg Triathlon Blog</title>
-    <updated>2025-02-02T19:44:25.000Z</updated>
+    <updated>2025-02-02T19:56:28.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.heidelberg-triathlon.de/blog"/>
     <subtitle>Heidelberg Triathlon Blog</subtitle>
@@ -11,10 +11,28 @@
         <title type="html"><![CDATA[Die Anmeldung ist geöffnet!]]></title>
         <id>https://www.heidelberg-triathlon.de/blog/20250107_anmeldung</id>
         <link href="https://www.heidelberg-triathlon.de/blog/20250107_anmeldung"/>
-        <updated>2025-02-02T19:44:25.000Z</updated>
+        <updated>2025-02-02T19:56:28.000Z</updated>
         <summary type="html"><![CDATA[Staffel]]></summary>
         <content type="html"><![CDATA[<p><img alt="Staffel" src="https://www.heidelberg-triathlon.de/assets/images/20250107_anmeldung-1cea62326d233442e0649abf79cba6f3.png" width="1080" height="1920"></p>
 <p>Seid ihr bereit euch der vllt. härtesten Kurzdistanz Deutschlands zu stellen? Dann ab zur Anmeldung! Wir freuen uns auf euch!</p>]]></content>
+        <author>
+            <name>Orga Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Finde deine Staffel]]></title>
+        <id>https://www.heidelberg-triathlon.de/blog/20250202_staffelboerse</id>
+        <link href="https://www.heidelberg-triathlon.de/blog/20250202_staffelboerse"/>
+        <updated>2025-02-02T19:56:28.000Z</updated>
+        <summary type="html"><![CDATA[Staffel]]></summary>
+        <content type="html"><![CDATA[<p><img alt="Staffel" src="data:image/png;base64,DQo="></p>
+<p>Die Anmeldung läuft auf Hochtouren und so viele von euch haben sich schon ihr Ticket für den 27. Juli gesichert.
+Bei den Einzelstartplätze sind aktuell schon 500 Teilnehmende gemeldet.
+Bist du ganz neu im Triathlon, willst noch nicht die volle Distanz absolvieren oder dir bringt das Sportevent als Team einfach viel mehr Spaß?
+Dann kannst du dir natürlich auch als Staffel die Herausforderung teilen.
+Wenn du noch eine Teilnahmemöglichkeit in einer Staffel beim Heidelberg Triathlon suchst oder deine Staffel noch eine<em>n weitere</em>n Teampartner*in als Verstärkung benötigt, wollen wir euch zusammenbringen!
+Nutzt dafür diesen Link: <a href="https://docs.google.com/forms/d/e/1FAIpQLSdh-3-0YDYKgNiR9CqnvFIxb4aIIvyV_xc6D_cMlGNAjfOYPw/viewform?usp=preview">https://docs.google.com/forms/d/e/1FAIpQLSdh-3-0YDYKgNiR9CqnvFIxb4aIIvyV_xc6D_cMlGNAjfOYPw/viewform?usp=preview</a>
+Dort könnt ihr ein paar Fragen zu euch beantworten und hört mit etwas Glück von uns oder eurem zukünftigen Team!</p>]]></content>
         <author>
             <name>Orga Team</name>
         </author>
