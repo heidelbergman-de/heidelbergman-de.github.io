@@ -31,7 +31,7 @@ export default function GradientIntroDiv() {
         <br></br>
         <h2 style={{ fontWeight: "normal" }}>Olympische Distanz</h2>
         <h2 style={{ fontWeight: "normal" }}>Staffel</h2>
-        <h2 style={{ fontWeight: "normal" }}>Kids-Lauf</h2>
+        <h2 style={{ fontWeight: "normal" }}>Nikar4Kids Lauf</h2>
       </div>
     </div>
   );
