@@ -1,5 +1,5 @@
 ---
-title: Radstrechekn-Checks im Mai
+title: Radstrecken-Checks im Mai
 authors: [orga]
 ---
 
