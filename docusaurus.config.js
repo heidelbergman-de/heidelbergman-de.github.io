@@ -142,6 +142,10 @@ const config = {
               label: "Ergebnisse",
               to: "Wettkampf/Ergebnisse",
             },
+            {
+              label: "Nikar4Kids Kinder-Lauf",
+              to: "Wettkampf/KidsLauf",
+            },
           ],
         },
         {
