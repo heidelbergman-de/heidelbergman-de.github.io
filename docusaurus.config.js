@@ -113,10 +113,10 @@ const config = {
               label: "Ausschreibung",
               to: "Wettkampf/Ausschreibung",
             },
-            // {
-            //   label: "Anmeldung",
-            //   to: "https://heidelberg-triathlon-2025.racepedia.de/",
-            // },
+            {
+              label: "Anmeldung",
+              to: "https://heidelberg-triathlon-2025.racepedia.de/",
+            },
             // {
             //   label: "Anmeldung",
             //   to: "Wettkampf/Anmeldung",

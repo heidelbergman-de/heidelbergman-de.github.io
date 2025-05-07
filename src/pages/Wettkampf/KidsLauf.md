@@ -13,3 +13,5 @@ Nikar4Kids Lauf 1: ca. 200 m für Kinder der Jahrgänge 2019-2022
 Nikar4Kids Lauf 2: ca. 400m für Kinder der Jahrgänge 2015-2018 
 
 Startgeld: € 4 
+
+Hier gehts zur Anmeldung: [https://heidelberg-triathlon-2025.racepedia.de/](https://heidelberg-triathlon-2025.racepedia.de/)

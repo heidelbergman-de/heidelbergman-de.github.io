@@ -89,6 +89,8 @@ export default function HomepageHeader() {
           to="https://heidelberg-triathlon-2025.racepedia.de/"
         >
           Anmeldung
+          <br />
+          (Nikar4Kids Kinder-Lauf)
         </Link>
       </div>
       {/* <div className={styles.button}>
