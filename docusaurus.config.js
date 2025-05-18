@@ -146,6 +146,10 @@ const config = {
               label: "Nikar4Kids Kinder-Lauf",
               to: "Wettkampf/KidsLauf",
             },
+            {
+              label: "Trainingsplan",
+              to: "Wettkampf/Trainingsplan",
+            },
           ],
         },
         {
