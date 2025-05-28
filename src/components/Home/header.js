@@ -17,10 +17,10 @@ const floatingDivs = [
   // },
   {
     img_path: "img/startpage/header/s03.png",
-    headline: "Ausschreibung",
-    text: "Ausschreibung für 2025...",
-    button_text: "Ausschreibung",
-    button_link: "/Wettkampf/Ausschreibung",
+    headline: "Streckenchecks",
+    text: "Streckenchecks 2025...",
+    button_text: "Streckenchecks",
+    button_link: "blog/2025/05/28/_streckenchecks/",
   },
   {
     img_path: "img/startpage/header/s01.png",
