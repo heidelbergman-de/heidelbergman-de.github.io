@@ -18,9 +18,9 @@ Die Laufstrecke hat insgesamt 160 Höhenmeter und ist teilweise schattig. Übrig
 
 ### Laufstrecke zum Download
 
-- Laufstrecke 2024 auf [komoot.com](https://www.komoot.com/tour/1690173223?share_token=aOpseDwetJYPn5WlJP4EdfMTbslISfjti1elE1w00eOwkr4j3u&ref=wtd)
-- Laufstrecke 2024 auf [strava.com](https://strava.app.link/qkpMC3zH0Kb)
-- Laufstrecke 2024 als [GPX-Datei](/gpx/Laufstrecke.gpx)
+- Laufstrecke 2025 auf [komoot.com](https://www.komoot.com/tour/1690173223?share_token=aOpseDwetJYPn5WlJP4EdfMTbslISfjti1elE1w00eOwkr4j3u&ref=wtd)
+- Laufstrecke 2025 auf [strava.com](https://strava.app.link/qkpMC3zH0Kb)
+- Laufstrecke 2025 als [GPX-Datei](/gpx/Laufstrecke.gpx)
 
 <!-- - [Alte Laufstrecke auf Garmin.com](http://connect.garmin.com/modern/activity/520624408) -->
   <!-- * [Laufstrecke als GPX](https://www.heidelberg-triathlon.de/images/files/Heidelbergman_Laufstrecke.gpx) -->
