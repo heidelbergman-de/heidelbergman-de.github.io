@@ -8,6 +8,7 @@ title: Unterkunft
 
 ## Hotels
 
+* **[Atlantic Hotel Heidelberg](https://www.atlantic-hotels.de/heidelberg/)** - Partnerhotel des Heidelberg Triathlons, einen Rabattcode für die Buchung erhaltet Ihr im Newsletter.
 * [Heidelberg Tourismus](http://www.heidelberg-marketing.de/)
 * [Booking.com: Hotels in Heidelberg](http://www.booking.com/city/de/heidelberg.html?aid=303948;label=heidelberg-6GuwbM4WxC3h331_ual_AwS2712895311;ws=&gclid=CK2M4OzKiZoCFUQI3wodXVscFQ)
 * [Hotel Reservation Service (HRS): Heidelberg](http://www.hrs.de/hotel/de/baden-wuerttemberg/heidelberg/)

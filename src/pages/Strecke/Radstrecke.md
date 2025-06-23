@@ -23,7 +23,7 @@ Zum Ziel geht es über den Kornmarkt, die Altstadt, die Alte Brücke und das nö
 
 ### Bergwertung:
 
-In diesem Jahr neu: Wir haben für Euch oberhalb vom Klingentor bis zum Beginn des Johannes-Hoops-Wegs eine Bergwertung eingerichtet. 
+Wir haben für Euch oberhalb vom Klingentor bis zum Beginn des Johannes-Hoops-Wegs eine Bergwertung eingerichtet. 
 
 Diese soll die Bergziegen unter Euch ermutigen, auf diesem Streckenabschnitt nochmal extra Gas zu geben, damit Ihr Eure Kletterfähigkeiten zeigen könnt. Bei 80m Höhenunterschied und über 10% durchschnittlicher Steigung sind stramme Waden gefragt. 
 
