@@ -79,7 +79,7 @@ export default function HomepageHeader() {
 
   const HDLogo = siteConfig.customFields.HDLogo;
 
-  const targetDate = new Date("2025-01-01T09:00:00.000Z").getTime();
+  const targetDate = new Date("2025-06-27T16ç:00:00.000Z").getTime();
 
   const anmeldeButton = (
     <div className={styles.buttons}>
@@ -89,8 +89,6 @@ export default function HomepageHeader() {
           to="https://heidelberg-triathlon-2025.racepedia.de/"
         >
           Anmeldung
-          <br />
-          (Nikar4Kids Kinder-Lauf)
         </Link>
       </div>
       {/* <div className={styles.button}>
@@ -117,11 +115,11 @@ export default function HomepageHeader() {
 
         <h1 className={styles.headerTagline}> Sonntag, 27. Juli 2025</h1>
 
-        {/* <CountdownTimer
+        <CountdownTimer
           targetDate={targetDate}
-          text="Die Anmeldung öffnet in"
-          expiredNotice={anmeldeButton}
-        /> */}
+          text="Sicher dir einen der letzten 10 Startplätze in:"
+          expiredNotice=""
+        />
 
         {anmeldeButton}
 
