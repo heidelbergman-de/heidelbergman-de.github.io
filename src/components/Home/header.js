@@ -79,7 +79,7 @@ export default function HomepageHeader() {
 
   const HDLogo = siteConfig.customFields.HDLogo;
 
-  const targetDate = new Date("2025-06-27T16ç:00:00.000Z").getTime();
+  const targetDate = new Date("2025-06-27T16:00:00.000Z").getTime();
 
   const anmeldeButton = (
     <div className={styles.buttons}>
