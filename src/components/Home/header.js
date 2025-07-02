@@ -115,11 +115,11 @@ export default function HomepageHeader() {
 
         <h1 className={styles.headerTagline}> Sonntag, 27. Juli 2025</h1>
 
-        <CountdownTimer
+        {/* <CountdownTimer
           targetDate={targetDate}
           text="Sicher dir einen der letzten 10 Startplätze in:"
           expiredNotice=""
-        />
+        /> */}
 
         {anmeldeButton}
 

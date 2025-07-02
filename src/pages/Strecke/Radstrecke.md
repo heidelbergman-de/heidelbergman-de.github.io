@@ -38,8 +38,8 @@ Die Bergwertung ist bei Strava auch ein eigenes Segment, sodass ihr im Voraus sc
 <!-- - [Radstrecke 2021](https://connect.garmin.com/modern/course/68419649) -->
 <!-- - [garmin.com](https://connect.garmin.com/modern/course/116711533) -->
 
-- Radstrecke ab 2024 auf [komoot.com](https://www.komoot.com/tour/1684425169?share_token=aEFLKITc4BMa0MLo6T24dqICd7xMcX4MKrLPuTm3oZLNK0aEq4&ref=wtd)
-- Radstrecke ab 2024 auf [strava.com](https://www.strava.com/routes/3243917003112441242)
+- Radstrecke 2024 & 2025 auf [komoot.com](https://www.komoot.com/tour/1684425169?share_token=aEFLKITc4BMa0MLo6T24dqICd7xMcX4MKrLPuTm3oZLNK0aEq4&ref=wtd)
+- Radstrecke 2024 & 2025 auf [strava.com](https://www.strava.com/routes/3243917003112441242)
 - Radstrecke als [GPX-Datei](/gpx/Radstrecke.gpx)
 
 Die Radrunde wird im Wettkampf **gegen den Uhrzeigersinn** gefahren!
