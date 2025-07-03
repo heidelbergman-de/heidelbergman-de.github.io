@@ -28,9 +28,7 @@ title: Fragen und Antworten
 **Antwort:** Der Schwimmstart ist am Neckarmünzplatz. Nach der Wettbewerbsbesprechung geht es gemeinsam zum Schwimmstart von der Wechselzone zum Schiwmmstart. Mehr Infos gibts bei den [Strecken](/Strecke/Uebersicht). 
 
 **Frage:** Gibt es dieses Jahr ein Testschwimmen? \
-**Antwort:** Leider haben wir aufgrund der vielen Belegungen am Neckar dieses Jahr keine Freigabe vom Wasserschifffahrsamt (WSA) für das Testschwimmen erhalten. Damit können wir Euch kein Testschwimmen anbieten. Ihr könnt allerdings gerne privat am Neckar schwimmen gehen. Bitte beachtet dabei die Regeln des WSA und die Schwimmverbote, z.B. nur max 3m entfernt vom Ufer schwimmen und nicht unter Brücken durchschwimmen. 
-
-### Anmeldung
+**Antwort:** Ja, am Sonntag, 06.07.2025, um 18:00 Uhr. Treffpunkt ist an der Neckarwiese bei der Theodor-Heuss-Brücke. Das Testschwimmen ist kostenlos und eine gute Gelegenheit, die Strecke kennenzulernen. Bitte beachtet, dass es sich um ein Freiwasserschwimmen handelt und Ihr Euch entsprechend vorbereiten solltet. Wir ubernehmen keine Haftung für Unfälle oder Verletzungen.
 
 **Frage:** Ich habe mich angemeldet, sehe mich aber immer noch nicht in der Starterliste und die Startgebühr wurde auch noch nicht abgebucht. Hat alles geklappt?  \
 **Antwort:** Wer eine Bestätigungsmail erhalten hat, der ist angemeldet. Auf der Liste erscheint man erst, nachdem abgebucht wurde. Und leider geschieht dies oft unregelmäßig.
