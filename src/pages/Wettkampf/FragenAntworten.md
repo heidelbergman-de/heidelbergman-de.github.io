@@ -20,15 +20,11 @@ title: Fragen und Antworten
 **Frage:** Wie kalt ist der Neckar? \
 **Antwort:** Die Temperatur wird am Wettkampftag gemessen und bei der Wettkampfbesprechung bekannt gegeben. Ein groben Überblick über die Wassertemperatur des Neckars gibt es beim LUBW: https://www.lubw.baden-wuerttemberg.de/wasser/ueberblick-neckar. 
 
-
 **Frage:** Kann ich beim Schwimmstart noch Sachen abgeben? \
 **Antwort:** Ja, es gibt eine Kleider-Beutel-Abgabe. Diese ist in der Nähe des Schwimmstarts. Bitte beachtet, dass die Kleider in einem mit deiner Startnummer gut beschrifteten oder beklebten Beutel abgegeben werden müssen.
 
 **Frage:** Wie kommt man zum Schwimmstart? \
 **Antwort:** Der Schwimmstart ist am Neckarmünzplatz. Nach der Wettbewerbsbesprechung geht es gemeinsam zum Schwimmstart von der Wechselzone zum Schiwmmstart. Mehr Infos gibts bei den [Strecken](/Strecke/Uebersicht). 
-
-**Frage:** Gibt es dieses Jahr ein Testschwimmen? \
-**Antwort:** Ja, am Sonntag, 06.07.2025, um 18:00 Uhr. Treffpunkt ist an der Neckarwiese bei der Theodor-Heuss-Brücke. Das Testschwimmen ist kostenlos und eine gute Gelegenheit, die Strecke kennenzulernen. Bitte beachtet, dass es sich um ein Freiwasserschwimmen handelt und Ihr Euch entsprechend vorbereiten solltet. Wir ubernehmen keine Haftung für Unfälle oder Verletzungen.
 
 **Frage:** Ich habe mich angemeldet, sehe mich aber immer noch nicht in der Starterliste und die Startgebühr wurde auch noch nicht abgebucht. Hat alles geklappt?  \
 **Antwort:** Wer eine Bestätigungsmail erhalten hat, der ist angemeldet. Auf der Liste erscheint man erst, nachdem abgebucht wurde. Und leider geschieht dies oft unregelmäßig.

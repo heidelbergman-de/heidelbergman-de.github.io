@@ -9,8 +9,17 @@ title: Orga Team
 **Hi, wir sind das Orga-Team des Heidelberg-Triathlon. Wir sind ein bunt gemischter Haufen aus "jungen" Triathlet\*innen, die sich ehrenamtlich für den Heidelberg-Triathlon engagieren. Wir sind alle Mitglieder des SV Nikar Heidelberg und haben uns zusammengefunden, um den Heidelberg-Triathlon zu organisieren.**
 
 Wir sind:
-Franzi, Johannes, Juliane, Felix, Simon, David, Emilia, Julien, Chris, Doro, Freddy, Sören 
+Felix, Franzi, Johannes, David, Muriel, Doro, Maxi, Kay, Nane, Chris, Flo B., Sarah, Flo K., Paulina, Sabrina, Kim, Stephan, Freddy, Christian, Emilia, Alina, Anna, Jana, Stephi, Lea, Sören.
 
+<img src="/img/pages/orga/team_2.png" alt="Hauptorga" style={{ width: "80%" }} />
+<img src="/img/pages/orga/team_4.png" alt="Hauptorga" style={{ width: "80%" }}  />
+<img src="/img/pages/orga/team_5.png" alt="Hauptorga" style={{ width: "80%" }}  />
+<img src="/img/pages/orga/team_6.png" alt="Hauptorga" style={{ width: "80%" }}  />
+<img src="/img/pages/orga/team_3.png" alt="Hauptorga" style={{ width: "80%" }}  />
+<img src="/img/pages/orga/team_1.png" alt="Hauptorga" style={{ width: "80%" }}  />
+<img src="/img/pages/orga/team_7.png" alt="Hauptorga" style={{ width: "80%" }}  />
+
+<!-- 
 
 <table style={{ borderCollapse: "collapse", margin: "20px" }}>
     <tr>
@@ -92,7 +101,7 @@ Franzi, Johannes, Juliane, Felix, Simon, David, Emilia, Julien, Chris, Doro, Fre
 </table>
 
 
-Hinter uns steht ein großes Team an Helfer\*innen, die uns bei der Organisation des Heidelberg-Triathlon unterstützen. Ohne die vielen Helfer\*innen wäre der Heidelberg-Triathlon nicht möglich. Vielen Dank an dieser Stelle an alle Helfer\*innen und das alte Orga-Team für ihre Unterstützung!
+Hinter uns steht ein großes Team an Helfer\*innen, die uns bei der Organisation des Heidelberg-Triathlon unterstützen. Ohne die vielen Helfer\*innen wäre der Heidelberg-Triathlon nicht möglich. Vielen Dank an dieser Stelle an alle Helfer\*innen und das alte Orga-Team für ihre Unterstützung! -->
 
 ## Kontakt zum Orga Team
 
