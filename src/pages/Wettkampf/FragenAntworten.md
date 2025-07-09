@@ -26,20 +26,22 @@ title: Fragen und Antworten
 **Frage:** Wie kommt man zum Schwimmstart? \
 **Antwort:** Der Schwimmstart ist am Neckarmünzplatz. Nach der Wettbewerbsbesprechung geht es gemeinsam zum Schwimmstart von der Wechselzone zum Schiwmmstart. Mehr Infos gibts bei den [Strecken](/Strecke/Uebersicht). 
 
+### An- und Ummeldung 
+
 **Frage:** Ich habe mich angemeldet, sehe mich aber immer noch nicht in der Starterliste und die Startgebühr wurde auch noch nicht abgebucht. Hat alles geklappt?  \
-**Antwort:** Wer eine Bestätigungsmail erhalten hat, der ist angemeldet. Auf der Liste erscheint man erst, nachdem abgebucht wurde. Und leider geschieht dies oft unregelmäßig.
+**Antwort:** Wer eine Bestätigungsmail erhalten hat, der ist angemeldet und sollte sich auf der Starterliste finden. Solltest du dir unsicher sein melde dich gerne per Mail bei uns.
 
 **Frage:** Ich tauche doppelt auf der Meldeliste auf. Muß ich nun 2x starten?  \
-**Antwort:** Ja. Nein, natuerlich nicht ;) Wir gehen nach Meldeschluss durch die Liste und streichen alle doppelten Einträge heraus. Ihr müßt da nicht aktiv werden.
+**Antwort:** Dann hast du dich auch zweimal angemeldet. Schreib uns eine Mail und wir gehen auf Ursachenforschung.
 
 **Frage:** Ich möchte mich abmelden. Wie geht das?  \
-**Antwort:** Ihr schreibt uns eine kurze Mail (s. Kontakte/Meldewesen) und teilt uns das einfach mit. Unter Anmeldung/Ausschreibung sind Fristen und Bedingungen aufgeführt. Für den Fall, dass wir das Meldegeld zurücküberweisen, bitten wir um Nachsicht, dass dies oft erst nach dem Wettkampftermin erfolgt.
+**Antwort:** Du schreibst uns eine kurze Mail (s. Kontakte/Meldewesen) und teilst uns das einfach mit. Wenn du das Umbuchungsrecht mit dazu gebucht hattest kannst du unter Vorlage eines Attests deinen Start um ein Jahr verschieben. Andernfalls ist nur eine Umbuchung auf eine andere Person möglich. Eine Erstattung ist ausgeschlossen. Unter Anmeldung/Ausschreibung sind Fristen und Bedingungen aufgeführt. 
 
 **Frage:** Ich möchte mich ummelden oder Daten ändern. Wie geht das?  \
 **Antwort:** Ihr schreibt uns eine kurze Mail (s. [Meldewesen](/Kontakt/Orga)) und teilt uns das einfach mit. Unter Anmeldung/Ausschreibung sind Fristen und Bedingungen aufgeführt.
 
 **Frage:** Der Meldeschluss ist vorüber, aber heute morgen fühle ich mich plötzlich top fit. Kann ich noch nachmelden?  \
-**Antwort:** Falls wir noch Plätze frei haben, geben wir das kurzfristig bekannt. I.d.R. könnt ihr dann am Samstag zur Startnummernausgabe vorbeikommen und Euch dort direkt anmelden. First come, first serve. Wir können diese Plätze nicht reservieren.
+**Antwort:** Falls wir noch Plätze frei haben, geben wir das kurzfristig bekannt. I.d.R. könnt ihr dann am Samstag zur Startnummernausgabe vorbeikommen und Euch dort direkt anmelden. First come, first serve. Wir können diese Plätze nicht reservieren. Nachmeldungen sind keine möglich.
 
 
 ### Allgemein

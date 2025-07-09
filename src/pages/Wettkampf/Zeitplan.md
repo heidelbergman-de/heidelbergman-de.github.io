@@ -19,8 +19,8 @@ Der vorläufige Zeitplan für das Wettkampfwochenende ist wie folgt:
 - **8:45 – 9:15 Uhr:** Fußmarsch zum Schwimmstart
 - **9:30 Uhr:** Massenstart der Topstarter (Neckarmünzplatz)
 - **9:32 Uhr:** Rolling Start der restlichen Einzelstarter und Staffeln (Neckarmünzplatz)
-- 10:20 Uhr Aufwärmen Nikar4 Kids Lauf
-- 10:30 Uhr Start Nikar4 Kids Lauf
+- *10:20 Uhr:* Aufwärmen Nikar4 Kids Lauf
+- *10:30 Uhr:* Start Nikar4 Kids Lauf
 - **11:30 Uhr:** Zieleinlauf Topstarter (Zielbereich)
 - **13:00 – 15:30 Uhr:** Check-Out (Wechselzone)
 - **13:40 Uhr:** Zielschluss
