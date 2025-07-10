@@ -23,6 +23,6 @@ Der vorläufige Zeitplan für das Wettkampfwochenende ist wie folgt:
 - *10:30 Uhr:* Start Nikar4 Kids Lauf
 - **11:30 Uhr:** Zieleinlauf Topstarter (Zielbereich)
 - **13:00 – 15:30 Uhr:** Check-Out (Wechselzone)
-- **13:40 Uhr:** Zielschluss
+- **14:00 Uhr:** Zielschluss
 - **14:00 Uhr:** Siegerehrung
 - **15:30 Uhr:** Ende der Wechselzonen-Bewachung
