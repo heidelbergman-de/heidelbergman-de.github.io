@@ -4,10 +4,23 @@
         <title>Heidelberg Triathlon Blog</title>
         <link>https://www.heidelberg-triathlon.de/blog</link>
         <description>Heidelberg Triathlon Blog</description>
-        <lastBuildDate>Fri, 11 Jul 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Jul 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>de</language>
+        <item>
+            <title><![CDATA[Anwohner-Infos und Strecken-Sperrungen]]></title>
+            <link>https://www.heidelberg-triathlon.de/blog/2025/07/16/_AnwohnerInfos</link>
+            <guid>https://www.heidelberg-triathlon.de/blog/2025/07/16/_AnwohnerInfos</guid>
+            <pubDate>Wed, 16 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Liebe Athleten, liebe Zuschauer, liebe Anwohner,]]></description>
+            <content:encoded><![CDATA[<p>Liebe Athleten, liebe Zuschauer, liebe Anwohner,</p>
+<p>am Sonntag, den 27.07.2024, findet der Heidelberg Triathlob statt. Wir freuen uns auf ein großes Event und viele Zuschauer. Damit der Wettkampf für alle Beteiligten reibungslos abläuft, bitten wir um Verständnis für die notwendigen Strecken-Sperrungen.</p>
+<p>Die Strecken-Sperrungen sind wie folgt:</p>
+<p><a target="_blank" href="https://www.heidelberg-triathlon.de/assets/files/Anwohnerzettel_2025_final-36d4d42002d5ddb49cf4a5c01e3055b2.pdf">Anwohnerinfos</a></p>
+<p>🎉🎉🎉 Wir freuen uns auf euch!</p>
+<p>🔥RACE DAY: 27.07.2025 🔥</p>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Pasta-Party 2025]]></title>
             <link>https://www.heidelberg-triathlon.de/blog/2025/07/11/pasta</link>
@@ -361,16 +374,6 @@ Die Ausschreibung findet ihr <a href="https://www.heidelbergman.de/Wettkampf/Aus
             <content:encoded><![CDATA[<p>Liebe Triathlet*innen und Fans des HeidelbergMan,</p>
 <p>Die Anmeldung für den HeidelbergMan 2024 wird am 1. Januar 2024 um 12 Uhr mittags öffnen. Wir freuen uns sehr, dass wir die Veranstaltung wieder aufleben lassen können und hoffen, dass wir euch alle wiedersehen werden.
 Mehr Infos zur Veranstaltung findet in der <a href="https://www.heidelbergman.de/Wettkampf/Ausschreibung/">Ausschreibung</a>.</p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Der HEIDELBERGMAN 2024 findet statt!]]></title>
-            <link>https://www.heidelberg-triathlon.de/blog/2023/12/07/Back</link>
-            <guid>https://www.heidelberg-triathlon.de/blog/2023/12/07/Back</guid>
-            <pubDate>Thu, 07 Dec 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[Liebe Triathlet\*innen und Fans des HeidelbergMan,]]></description>
-            <content:encoded><![CDATA[<p>Liebe Triathlet*innen und Fans des HeidelbergMan,</p>
-<p>Im Jahr 2024 wird der HeidelbergMan Triathlon am 28. Juli 2024 wieder stattfinden. Wir freuen uns sehr, dass wir die Veranstaltung wieder aufleben lassen können und hoffen, dass wir euch alle wiedersehen werden. Wir werden euch auf dem Laufenden halten, sobald wir weitere Informationen haben.</p>
-<p>Bis dahin, wir halten euch auf dem Laufenden!</p>]]></content:encoded>
         </item>
     </channel>
 </rss>
