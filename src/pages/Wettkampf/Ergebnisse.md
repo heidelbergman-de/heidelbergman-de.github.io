@@ -4,8 +4,10 @@ title: Ergebnisse
 
 ![Ergebnisse](/img/banner/Ergebnisse.png)
 
+
 # Ergebnisse
 Die Ergebnisse der letzten Jahre finden Sie hier:
+* Heidelberg Triathlons 2025: [Racepedia](https://heidelberg-triathlon-2025.racepedia.de/ergebnisse)
 * HeidelbergMan 2024: [Racepedia](https://heidelbergman2024.racepedia.de/ergebnisse)
 * HeidelbergMan 2022: [Runtix](https://runtix.com/sts/10050/2262)
 * HeidelbergMan 2021: [Runtix](https://runtix.com/sts/10050/2090/os/-/-)
