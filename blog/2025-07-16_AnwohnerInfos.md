@@ -3,6 +3,8 @@ title: Anwohner-Infos und Strecken-Sperrungen
 authors: [orga]
 ---
 
+![Unterkunft](/img/banner/Anfahrt.png)
+
 
 Liebe Athleten, liebe Zuschauer, liebe Anwohner,
 
