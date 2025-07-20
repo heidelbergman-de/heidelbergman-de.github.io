@@ -31,6 +31,10 @@ Auf den schnellsten Fahrer und die schnellste Fahrerin wartet bei der Siegerehru
 
 Die Bergwertung ist bei Strava auch ein eigenes Segment, sodass ihr im Voraus schon fleißig trainieren könnt. Das Segment findet ihr auf [strava.com](https://www.strava.com/segments/36886942)
 
+### Baustellen-Info
+
+![Baustelle](/img/pages/strecke/Baustellenbereich_Radstrecke_2025.png)
+
 
 ### Radstrecke zum Download:
 

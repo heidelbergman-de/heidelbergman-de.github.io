@@ -125,10 +125,10 @@ const config = {
               label: "Zeitplan",
               to: "Wettkampf/Zeitplan",
             },
-            // {
-            //   label: "Merkblatt",
-            //   to: "Wettkampf/Merkblatt",
-            // },
+            {
+              label: "Infos",
+              to: "Wettkampf/Merkblatt",
+            },
             {
               label: "FAQs",
               to: "Wettkampf/FragenAntworten",
