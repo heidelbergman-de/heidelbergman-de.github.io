@@ -13,9 +13,7 @@ title: Merkblatt
     abgeholt werden. Plant am Sonntag morgen bitte genug Zeit für
     Check-In etc. Ein.
 
--   Hier bekommt ihr eure Startnummer, Athletenbändchen, Badekappe und
-    Etikettenbogen mit den Aufklebern für Rad und Helm (jeweils auf der
-    linken Seite zu bekleben, z.B. Oberrohr oder Sattelstütze).
+-   Hier bekommt ihr eure Startnummer, Athletenbändchen, Badekappe und Etikettenbogen mit den Aufklebern für Rad (Fähnchen) und Helm (Sticker). 
 
 -   Fürs Rad: Bring das Fähnchen mit eurer Startnummer an der
     Sattelstütze an, damit es frei flattern kann (hierdurch erfolgt auch
@@ -181,10 +179,7 @@ title: Merkblatt
 
 -   Die Siegerehrung findet voraussichtlich um 14 Uhr statt.
 
--   Geehrt werden Platz 1 - 3 der Gesamtwertung, sowie jeweils Platz 1
-    jeder Altersklasse, Platz 1 der Staffeln (M, W, M/W), und der
-    Firmenstaffeln, sowie die und der Schnellste auf unserer Bergwertung
-    (+ Staffeln).
+-   Geehrt werden Platz 1 - 3 der Gesamtwertung, sowie jeweils Platz 1 jeder Altersklasse, Platz 1 der Staffeln (M, W, M/W), sowie die und der Schnellste auf unserer Bergwertung (+ Staffel). 
 
 -   Nach der Siegerehrung findet die Verlosung der Preise für die
     Heidelberglegenden statt.
