@@ -23,3 +23,7 @@ title: Unterkunft
 * [Privatzimmer](http://www.deutsche-pensionen.de/pension-heidelberg/verzeichnis-lage.html)
 * [Gästezimmer-Zentrale](http://www.gaestezimmer-zentrale.de/)
 * [Heidelberg Ferienwohnungen](http://www.heidelberg-ferienwohnungen.de/)
+
+## Camping
+
+* [Camping- und Wohnmobilstellplätze](https://www.heidelberg-marketing.de/planen/camping)
