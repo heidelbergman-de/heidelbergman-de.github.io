@@ -6,7 +6,9 @@ title: Staffelbörse
 
 # Staffelbörse
 
-Hey, willst du beim Heidelberg-Triathlon mitmachen, aber dir fehlt noch ein Team? Oder bist du auf der Suche nach einem Teammitglied? Dann fülle hier einfach das Formular aus und wir helfen dir, ein passendes Team zu finden:
+Viel Spaß! Die Staffelbörse kommt nächtes Jahr wieder!
+
+<!-- Hey, willst du beim Heidelberg-Triathlon mitmachen, aber dir fehlt noch ein Team? Oder bist du auf der Suche nach einem Teammitglied? Dann fülle hier einfach das Formular aus und wir helfen dir, ein passendes Team zu finden:
 [Hier geht es zum Formular](https://docs.google.com/forms/d/e/1FAIpQLSdh-3-0YDYKgNiR9CqnvFIxb4aIIvyV_xc6D_cMlGNAjfOYPw/viewform)
 
 Und hier findest du eine Übersicht über die Teams, die noch auf der Suche nach einem Teammitglied sind:
@@ -15,4 +17,4 @@ Und hier findest du eine Übersicht über die Teams, die noch auf der Suche nach
 
 Hast du ein guten Team gefunden oder möchtest du auf die Liste, dann kannst du uns einfach eine Mail an [staffelboerse(at)heidelberg-triathlon.de](mailto:staffelboerse@heidelberg-triathlon.de) schreiben und wir helfen dir, ein passendes Team zu finden.
 
-Wir wünschen dir viel Erfolg bei der Suche und freuen uns, dich beim Heidelberg-Triathlon begrüßen zu dürfen!
+Wir wünschen dir viel Erfolg bei der Suche und freuen uns, dich beim Heidelberg-Triathlon begrüßen zu dürfen! -->
