@@ -86,9 +86,9 @@ export default function HomepageHeader() {
       <div className={styles.button}>
         <Link
           className="button button--primary button--lg"
-          to="https://heidelberg-triathlon-2025.racepedia.de/teilnehmerliste"
+          to="https://heidelberg-triathlon-2025.racepedia.de/ergebnisse"
         >
-          Starterliste
+          Ergebnisse
         </Link>
       </div>
       {/* <div className={styles.button}>
