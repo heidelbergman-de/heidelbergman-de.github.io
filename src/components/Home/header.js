@@ -38,11 +38,10 @@ const floatingDivs = [
   // },
   {
     img_path: "img/startpage/header/s02.png",
-    headline: "Hilf mit",
-    text: "Hilf mit und werde Helfer...",
+    headline: "Fotos",
+    text: "Athleten-Bilder von Sportograf...",
     button_text: "Hilf mit!",
-    button_link:
-      "https://docs.google.com/forms/d/e/1FAIpQLSf5CXVYr5MeiyXFXk8wXa-If2KhJK4iS5b3rnyoOJ8d5WIzAw/viewform",
+    button_link: "https://www.sportograf.com/de/event/16037",
   },
 ];
 
