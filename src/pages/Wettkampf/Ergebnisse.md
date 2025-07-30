@@ -37,6 +37,9 @@ Auf der neuen Strecke seit 2005:
 <br/>
 | **Jahr** | **Siegerinnen**                   | **Sieger**                  | **Bemerkungen**                                        |
 | -------- | --------------------------------- | --------------------------- | ------------------------------------------------------ |
+| 2025     | Valerie Moser                     | Jakob Breinlinger           |                                                        |
+| 2024     | Valerie Moser                     | Gregor Payet                | David Breinlinger schnellster mit Streckenrekord DQ (rechts Überholen)      |
+| 2023     |                                   |                             | Ausgefallen                                            |
 | 2022     | Laura Jansen                      | Malte Plappert              |                                                        |
 | 2021     | Laura Philipp                     | Mika Noodt                  |                                                        |
 | 2020     |                                   |                             | Ausgefallen wegen Corona                               |
