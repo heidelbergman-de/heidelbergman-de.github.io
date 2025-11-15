@@ -248,6 +248,12 @@ const config = {
             },
           ],
         },
+        {
+          type: "html",
+          position: "right",
+          value:
+            '<a class="navbar__brand navbar__brand--right-logo" href="https://sv-nikar.de/" aria-label="SV Nikar Logo"><img src="/img/logo/sv_nikar_logoç.png" alt="SV Nikar Logo" /></a>',
+        },
       ],
     },
     footer: {
