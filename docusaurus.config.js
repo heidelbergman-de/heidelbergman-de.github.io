@@ -309,7 +309,7 @@ const config = {
           title: "DTU",
           items: [
             {
-              html: '<img src="/img/misc/Triathlon-Kurzdistanz-02.png" width="114" height="51" /><img src="/img/misc/DTU_HDTri2025.png" width="114" height="51" />',
+              html: '<img src="/img/misc/Triathlon-Kurzdistanz-02.png" width="114" height="51" /><img src="/img/misc/DTU_HDTri2026.png" width="114" height="51" />',
             },
           ],
         },
