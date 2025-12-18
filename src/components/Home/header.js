@@ -78,16 +78,16 @@ export default function HomepageHeader() {
 
   const HDLogo = siteConfig.customFields.HDLogo;
 
-  const targetDate = new Date("2026-07-26T16:00:00.000Z").getTime();
+  const targetDate = new Date("2026-01-01T09:00:00.000Z").getTime();
 
   const anmeldeButton = (
     <div className={styles.buttons}>
       <div className={styles.button}>
         <Link
           className="button button--primary button--lg"
-          to="https://heidelberg-triathlon-2025.racepedia.de/ergebnisse"
+          to="https://heidelberg-triathlon-2026.racepedia.de/"
         >
-          Ergebnisse 2025
+          Anmeldung
         </Link>
       </div>
       {/* <div className={styles.button}>
@@ -113,14 +113,15 @@ export default function HomepageHeader() {
         </div>
 
         <h1 className={styles.headerTagline}> Sonntag, 26. Juli 2026</h1>
+        <h3 className={styles.headerSubTagline}>
+          Anmelde-Start: 01.01.2026 10:00
+        </h3>
 
-        {/* <CountdownTimer
+        <CountdownTimer
           targetDate={targetDate}
-          text="Sicher dir einen der letzten 10 Startplätze in:"
-          expiredNotice=""
-        /> */}
-
-        {anmeldeButton}
+          text=""
+          expiredNotice={anmeldeButton}
+        />
 
         <div className={styles.floatingHeaderDivGroup}>
           {floatingDivs.map((div, index) => (
