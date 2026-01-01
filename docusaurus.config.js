@@ -116,7 +116,7 @@ const config = {
             },
             {
               label: "Anmeldung",
-              to: "https://heidelberg-triathlon-2025.racepedia.de/",
+              to: "https://heidelberg-triathlon-2026.racepedia.de/",
             },
             // {
             //   label: "Anmeldung",
