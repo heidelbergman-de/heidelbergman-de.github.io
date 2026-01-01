@@ -113,7 +113,7 @@ export default function HomepageHeader() {
         </div>
 
         <h1 className={styles.headerTagline}> Sonntag, 26. Juli 2026</h1>
-        <h3 className={styles.headerSubTagline}>
+        {/* <h3 className={styles.headerSubTagline}>
           Anmelde-Start: 01.01.2026 10:00
         </h3>
 
@@ -121,7 +121,9 @@ export default function HomepageHeader() {
           targetDate={targetDate}
           text=""
           expiredNotice={anmeldeButton}
-        />
+        /> */}
+
+        {anmeldeButton}
 
         <div className={styles.floatingHeaderDivGroup}>
           {floatingDivs.map((div, index) => (

@@ -28,7 +28,8 @@ const config = {
     locales: ["de"],
   },
   customFields: {
-    HDLogo: "img/logo/hdtri_logo_bg.png",
+    // HDLogo: "img/logo/hdtri_logo_bg.png",
+    HDLogo: "img/logo/hdtri_x_aera_logo_m.png",
   },
   presets: [
     [
