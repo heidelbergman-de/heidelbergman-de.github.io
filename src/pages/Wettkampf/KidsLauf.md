@@ -1,11 +1,11 @@
 ---
-title: Nikar4Kids Kinder-Lauf
+title: Nikar4Kids-Lauf
 ---
 
-## Nikar4Kids Kinder-Lauf 
+## Nikar4Kids-Lauf 
 \
 \
-Der 1. Nikar4 Kids Lauf findet im Rahmen des 31. Heidelberg Triathlons statt. 
+Der 2. Nikar4Kids-Lauf findet im Rahmen des 32. Heidelberg Triathlons statt. 
 
 Es wird für viele Sportler und deren Begleitung also ein besonderer, sportlicher Tag. So auch sicher für Euch, Eure Eltern und Freunde, die Euch hoffentlich alle fleißig anfeuern kommen. Ihr dürft so schnell laufen, wie ihr wollt und könnt - es geht ausschließlich um den Spaß am Laufen. Eine Zeitmessung findet nicht statt. 
 <br/>
@@ -14,29 +14,29 @@ Es wird für viele Sportler und deren Begleitung also ein besonderer, sportliche
 ### Anmeldung und Startgeld  
 
 
-Nikar4Kids Lauf 1: ca. 400m für Kinder der Jahrgänge 2015-2018 
+Nikar4Kids Lauf 1: ca. 400m für Kinder der Jahrgänge 2016-2019 
 
-Nikar4Kids Lauf 2: ca. 200 m für Kinder der Jahrgänge 2019-2022 
+Nikar4Kids Lauf 2: ca. 200 m für Kinder der Jahrgänge 2020-2023 
 
-Startgeld: € 4 
+Startgeld: € 5 
 
-Hier gehts zur Anmeldung: [https://heidelberg-triathlon-2025.racepedia.de/](https://heidelberg-triathlon-2025.racepedia.de/)
+Hier gehts zur Anmeldung: [https://heidelberg-triathlon-2026.racepedia.de/](https://heidelberg-triathlon-2026.racepedia.de/)
 <br/>
 
 ### Ablauf
 
 Kommt am  
 
--   Samstag, 26.07.2025 von 16:00 - 18:00 Uhr  
+-   Samstag, 25.07.2025 von 16:00 - 18:00 Uhr  
 
--   Sonntag, 27.07.2025 von 08:00 - 10:00 Uhr 
+-   Sonntag, 26.07.2025 von 08:00 - 10:00 Uhr 
 
 um Eure Startnummern an der Startnummernausgabe  auf der Neckarwiese abzuholen. Es wartet auch eine Überraschung auf Euch! 
 
 Am Samstagabend ab 18 Uhr findet unsere  Pasta Party  supported  by Falk  statt. Kommt und genießt Pasta mit leckeren Soßen, kühle Getränke und eine schöne sportliche Stimmung.\
 Anmeldung unter: [Anmeldung Pasta-Party](https://docs.google.com/forms/d/1tHHbxZKvosAGmkW--T4wtbQQ8HrAj9cUo49eBbezzI0/viewform)
 
-Zeitplan am Sonntag, 27.07.2025 
+Zeitplan am Sonntag, 26.07.2026
 
 Am Sonntag treffen wir uns alle pünktlich ab 10:15 vor der Bühne. 
 
@@ -54,4 +54,4 @@ Begleitung: Eltern dürfen den 200m-Lauf gerne mitlaufen, wenn nötig.  
 
 Für unsere aller Sicherheit, achtet bitte auf die Durchsagen vor Ort und folgt den Anweisungen der Helferinnen und Helfer! 
 
-Bei Fragen könnt ihr euch jederzeit an unser Orga-Team wenden. Einen Nikar4 Kids Infostand findet Ihr am Sonntag, 27.07. auch auf unserer Expo.
+Bei Fragen könnt ihr euch jederzeit an unser Orga-Team wenden. Einen Nikar4Kids-Infostand findet Ihr am Sonntag, 26.07. auch auf unserer Expo.
