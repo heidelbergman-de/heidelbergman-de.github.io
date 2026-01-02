@@ -10,7 +10,9 @@ Aus Gründen der besseren Lesbarkeit und Verständlichkeit wird im Folgenden die
 
 2.  Zugelassen sind für den Einzelwettbewerb alle, die im Veranstaltungsjahr 18 Jahre alt werden und alle, die älter sind. Für die Staffelwettbewerbe gelten die Altersgrenzen aus der Ausschreibung. Teilnehmer unter 18 Jahren benötigen die unterschriebene Einverständniserklärung eines Erziehungsberechtigten. Eine Vereinsmitgliedschaft ist nicht erforderlich.
 
-3.  Jeder Teilnehmer verpflichtet sich zur Teilnahme an der Wettkampfbesprechung im Vorfeld des Wettkampfes.
+3.  Für den Nikar4Kids-Lauf (200m) sind Kinder mit den Jahrgängen 2020-2023 zugelassen. Für den Nikar4Kids-Lauf (400m) sind Kinder mit den Jahrgängen 2016-2019 zugelassen.
+
+4.  Jeder Teilnehmer verpflichtet sich zur Teilnahme an der Wettkampfbesprechung im Vorfeld des Wettkampfes.
 
 **§ 2 Obliegenheiten**
 
@@ -22,7 +24,7 @@ Aus Gründen der besseren Lesbarkeit und Verständlichkeit wird im Folgenden die
 
 **§ 3 Vertragsschluss**
 
-1.  Die Anmeldung, die die verbindliche Zusage des Teilnehmers an der Veranstaltung darstellt, ist nur über das Anmeldeformular der ONLINE-Anmeldung unter https://www.heidelberg-triathlon.de möglich.
+1.  Die Anmeldung, die die verbindliche Zusage des Teilnehmers an der Veranstaltung darstellt, ist nur über das Anmeldeformular der ONLINE-Anmeldung unter https://www.heidelberg-triathlon.de möglich. Die Anmeldung für den Nikar4Kinds-Lauf ist auch am Wettkampftag vor Ort möglich.
 
 2.  Jeder Teilnehmer kann nur sich selbst einmal anmelden. Doppelte Anmeldungen werden nicht akzeptiert.
 
