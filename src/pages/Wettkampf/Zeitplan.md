@@ -25,4 +25,4 @@ Der vorläufige Zeitplan für das Wettkampfwochenende ist wie folgt:
 - **13:00 – 15:30 Uhr:** Check-Out (Wechselzone)
 - **14:00 Uhr:** Zielschluss
 - **14:00 Uhr:** Siegerehrung
-- **15:30 Uhr:** Ende der Wechselzonen-Bewachung
+- **15:30 Uhr:** Ende der Wechselzonen-Bewachung 
