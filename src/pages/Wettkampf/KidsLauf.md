@@ -5,7 +5,7 @@ title: Nikar4Kids-Lauf
 ## Nikar4Kids-Lauf 
 \
 \
-Der 2. Nikar4Kids-Lauf findet im Rahmen des 32. Heidelberg Triathlons statt. 
+Der 2. Nikar4Kids-Lauf findet im Rahmen des 32. Heidelberg Triathlons by Aėra statt. 
 
 Es wird für viele Sportler und deren Begleitung also ein besonderer, sportlicher Tag. So auch sicher für Euch, Eure Eltern und Freunde, die Euch hoffentlich alle fleißig anfeuern kommen. Ihr dürft so schnell laufen, wie ihr wollt und könnt - es geht ausschließlich um den Spaß am Laufen. Eine Zeitmessung findet nicht statt. 
 <br/>
