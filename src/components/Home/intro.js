@@ -8,22 +8,32 @@ export default function GradientIntroDiv() {
           <b>HEIDEL</b>BERG <b>TRIATHLON</b>
         </h1>
         <p style={{ fontSize: "medium" }}>
-          Herzlich willkommen beim Heidelberg Triathlon, dem vielleicht
+          Herzlich willkommen beim Heidelberg Triathlon by Aėra, dem wahrscheinlich
           schönsten und anspruchsvollsten City-Triathlon über die Olympische
-          Distanz. <br></br>
-          Heidelberg, eine Stadt zwischen Tradition und Moderne, ist der stolze
-          Gastgeber dieses Triathlon-Festivals, bei dem sowohl Freizeitsportler
-          als auch Weltklasseathleten zu einem packenden Wettkampf
-          zusammenkommen. <br></br>
-          Die anspruchsvolle Strecke des Heidelberg Triathlon führt die Athleten
+          Distanz. Der Wettkampf wird vom SV Nikar Heidelberg e.V. ausgerichtet und
+          organisiert steht seit vielen Jahren für sportliche Qualität, Leidenschaft 
+          und professionelle Durchführung.  <br></br>
+          
+          Heidelberg, die Stadt zwischen Tradition und Moderne, bildet die 
+          eindrucksvolle Kulisse dieses besonderen Triathlon-Festivals. Jahr 
+          für Jahr bringt der SV Nikar Heidelberg e.V. hier Freizeitsportler, 
+          ambitionierte Athleten und internationale Spitzenstarter zusammen 
+          und schafft ein Event, das sportlichen Anspruch und einzigartige 
+          Atmosphäre verbindet. <br></br>
+          
+          Die anspruchsvolle Strecke des Heidelberg Triathlons führt die Athleten
           durch 1.600 m Schwimmen im malerischen Neckar, 36 km Rennradfahren
           vorbei an begeisterten Zuschauern entlang des Neckars, durch die
           charmante Altstadt, hinauf zum majestätischen Königstuhl und
           schließlich 10 km Laufen am Philosophenweg mit einem atemberaubenden
           Blick auf Heidelberg. <br></br>
-          Der Heidelberg Triathlon stellt die Teilnehmer*innen vor
-          herausfordernde Aufgaben und verspricht ein unvergessliches Erlebnis
-          inmitten dieser einzigartigen Kulisse.
+         
+          Mit viel ehrenamtlichem Engagement, organisatorischer Erfahrung und 
+          sportlicher Expertise schafft der SV Nikar jedes Jahr aufs Neue einen 
+          Triathlon, der Athletinnen und Athleten gleichermaßen fordert und 
+          begeistert. Dies macht den Heidelberg Triathlon zu einem unvergesslichen 
+          Erlebnis in einer der schönsten Städte Deutschlands.          
+
         </p>
       </div>
       <div className={styles.rightDiv}>
