@@ -106,6 +106,20 @@ export default function SponsorSection() {
         freuen uns darauf, <br />
         bald von Ihnen zu hören und setzen uns umgehend mit Ihnen in Verbindung.
       </Link>
+
+      <br></br>
+      <br></br>
+      <h1>Ehrenamtlichem ausgerichtet vom SV Nikar Heidelberg e.V.</h1>
+
+      <div className={styles.sponsorSubSectionLogos}>
+        <Link to="https://sv-nikar.de/">
+          <img
+            className={styles.sponsorGoldLogo}
+            src="/img/logo/sv_nikar_logo.png"
+            alt="Nikar"
+          />
+        </Link>
+      </div>
     </div>
   );
 }
