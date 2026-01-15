@@ -109,7 +109,7 @@ export default function SponsorSection() {
 
       <br></br>
       <br></br>
-      <h1>Ehrenamtlichem ausgerichtet vom SV Nikar Heidelberg e.V.</h1>
+      <h1>Ehrenamtlich ausgerichtet vom SV Nikar Heidelberg e.V.</h1>
 
       <div className={styles.sponsorSubSectionLogos}>
         <Link to="https://sv-nikar.de/">
