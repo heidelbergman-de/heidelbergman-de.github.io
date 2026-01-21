@@ -1,5 +1,5 @@
 ---
-title: Einzel-Startplätze augebucht!
+title: Einzel-Startplätze ausgebucht!
 authors: [orga]
 ---
 
