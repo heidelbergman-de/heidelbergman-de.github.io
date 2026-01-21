@@ -2,13 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.heidelberg-triathlon.de/blog</id>
     <title>Heidelberg Triathlon Blog</title>
-    <updated>2026-01-11T00:00:00.000Z</updated>
+    <updated>2026-01-21T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.heidelberg-triathlon.de/blog"/>
     <subtitle>Heidelberg Triathlon Blog</subtitle>
     <icon>https://www.heidelberg-triathlon.de/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Einzel-Startplätze augebucht!]]></title>
+        <title type="html"><![CDATA[Wir sind ausgebucht!]]></title>
+        <id>https://www.heidelberg-triathlon.de/blog/2026/01/21/ausgebucht2</id>
+        <link href="https://www.heidelberg-triathlon.de/blog/2026/01/21/ausgebucht2"/>
+        <updated>2026-01-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Bild]]></summary>
+        <content type="html"><![CDATA[<p><img alt="Bild" src="https://www.heidelberg-triathlon.de/assets/images/2026_01_21-84f09884ef444b698b2c8b53bf7c313c.png" width="1196" height="952"></p>
+<p>Wahnsinn! Ihr seid ja der Hammer!!! 🤯</p>
+<p>In den letzten Tagen sind nun auch die letzten Staffelplätze im Rekordtempo verkauft worden. 📈
+Ausgebucht in nichtmal 3 Wochen, davon haben wir vor 2 Jahren noch geträumt. 💭⭐</p>
+<p>Danke für euer Vertrauen und dass ihr auch 2026 wieder genauso viel Bock auf den Heidelberg Triathlon habt wie wir. 🚀🔥</p>
+<p>Für alle, die es dieses Mal nicht geschafft haben einen Startplatz zu ergattern:
+Aus eigener Erfahrung können wir sagen: Helfen macht mindestens/fast genauso viel Spaß wie Starten! 🙌🏼</p>
+<p>Liebe Grüße, euer Orga Team 🫶🏼</p>
+<p>🚀 Race Day: 26.07.2026 🚀</p>]]></content>
+        <author>
+            <name>Orga Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Einzel-Startplätze ausgebucht!]]></title>
         <id>https://www.heidelberg-triathlon.de/blog/2026/01/11/ausgebucht</id>
         <link href="https://www.heidelberg-triathlon.de/blog/2026/01/11/ausgebucht"/>
         <updated>2026-01-11T00:00:00.000Z</updated>
@@ -418,22 +437,6 @@ Unsere Vorfreude auf das Event steigt mit jedem Tag und wir freuen uns, dass ihr
 <p>🔥RACE DAY: 28.07.2024🔥
 📍Heidelberg</p>
 <p>🚀Feiert mit uns das 30. JUBILÄUM🚀</p>]]></content>
-        <author>
-            <name>Orga Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Staffelbörse]]></title>
-        <id>https://www.heidelberg-triathlon.de/blog/2024/02/06/Staffelboerse</id>
-        <link href="https://www.heidelberg-triathlon.de/blog/2024/02/06/Staffelboerse"/>
-        <updated>2024-02-06T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Staffel]]></summary>
-        <content type="html"><![CDATA[<p><img alt="Staffel" src="https://www.heidelberg-triathlon.de/assets/images/Staffel-7c5fddf4271ebbcb37beb04049f47e68.jpg" width="950" height="250"></p>
-<p>Liebe Triathlet*innen und Fans des HeidelbergMan,</p>
-<p>Seid ihr neu im Triathlon und wollt euch erstmal an einer Staffel versuchen 🚀? Oder seid ihr schon erfahrene Triathleten und wollt euch mit anderen messen 💥? Oder habt ihr einfach keine Lust auf alle drei Disziplinen 🛁  🛵 👠?</p>
-<p>Wollt ihr eine Staffel machen, aber euch fehlt noch ein Team? Oder seid ihr auf der Suche nach einem Teammitglied? Dann seid ihr hier genau richtig!</p>
-<p>Schaut vorbei auf unserer <a href="https://www.heidelbergman.de/Allgemeines/Staffelboerse/">Staffelbörse</a> und findet euer passendes Team!</p>
-<p>Wir wünschen euch viel Erfolg bei der Suche und freuen uns, euch beim HeidelbergMan begrüßen zu dürfen! 😄</p>]]></content>
         <author>
             <name>Orga Team</name>
         </author>
