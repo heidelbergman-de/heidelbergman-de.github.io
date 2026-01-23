@@ -38,10 +38,10 @@ const floatingDivs = [
   // },
   {
     img_path: "img/startpage/header/s02.png",
-    headline: "Fotos",
-    text: "Athleten-Bilder von Sportograf...",
-    button_text: "Fotos",
-    button_link: "https://www.sportograf.com/de/event/16037",
+    headline: "Helfer",
+    text: "Werde Teil des Teams und hilf mit...",
+    button_text: "Hilf mit!",
+    button_link: "https://lukify.app/vjmzyp",
   },
 ];
 
