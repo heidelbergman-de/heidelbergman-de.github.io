@@ -2,6 +2,9 @@
   font-size: 4vh;
   margin-bottom: 2rem;
   filter: drop-shadow(2px 2px 2px #666);
+  text-shadow:
+    0 1px 3px rgba(0, 0, 0, 0.6),
+    /* Tight shadow for sharpness */ 0 4px 15px rgba(0, 0, 0, 0.4); /* Wide shadow for contrast */
 }
 
 .buttons {
@@ -28,12 +31,25 @@
 .headerImageLogo {
   width: 50vh;
   margin: 0 auto;
+  filter: drop-shadow(0 4px 6px rgba(0, 0, 0, 0.4))
+    drop-shadow(0 15px 35px rgba(0, 0, 0, 0.5));
+
+  /* Optional: Smooth transition if you want it to move on hover */
+  transition:
+    transform 0.3s ease,
+    filter 0.3s ease;
 }
 
 .headerBackground {
-  background-image: radial-gradient(
-    var(--custom-header-gradient-color-start),
-    var(--custom-header-gradient-color-end)
+  background: radial-gradient(
+    circle at 50% 40%,
+    /* Position the center slightly above the middle (near the logo) */
+    rgba(100, 149, 237, 0.2) 10%,
+    /* Center: Very light blue, mostly transparent to show the image */
+    rgba(65, 105, 225, 0.5) 50%,
+    /* Middle: Mid-tone blue starting to tint the image */
+    rgba(30, 60, 114, 0.9) 100%
+      /* Edges: Deep, solid blue for the vignette effect */
   );
   background-size: cover;
   height: 95vh;
@@ -63,7 +79,11 @@
 
 .floatingHeaderDiv {
   padding: 0rem;
-  background-color: var(--custom-hover-div-background-color);
+  background: linear-gradient(
+    180deg,
+    rgba(65, 105, 225, 0.85) 0%,
+    rgba(100, 149, 237, 0.75) 100%
+  );
   margin-right: 1rem;
   margin-left: 1rem;
   margin-bottom: 0.5rem;
@@ -73,7 +93,21 @@
   height: 20vh;
   width: 26vw;
   max-width: 30rem;
-  box-shadow: 0 0 15px 5px var(--custom-hover-div-background-color);
+  /* box-shadow: 0 0 15px 5px var(--custom-hover-div-background-color); */
+  /* Glassmorphism Effect (Optional: blurs the image behind the card) */
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+
+  /* Shape and Layout */
+  border-radius: 15px; /* Softer, larger corners than the button */
+  padding: 20px;
+  color: white;
+
+  /* Border */
+  border: 1px solid rgba(255, 255, 255, 0.1);
+
+  /* Shadow to separate it from the main background */
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
 }
 
 .floatingDivRoundImageContainer {
@@ -123,9 +157,35 @@
 }
 
 .floatingHeaderDivButtonStyle {
-  font-size: small;
+  /* font-size: small; */
   padding-left: clamp(0.5vw, 1.5vw, 2vw);
   padding-right: clamp(0.5vw, 1.5vw, 2vw);
+  background: linear-gradient(135deg, #e07a86 0%, #f0a08d 100%);
+
+  /* Text Styling */
+  color: white;
+  text-transform: uppercase;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+  text-decoration: none;
+
+  /* Shape */
+  border: none;
+  border-radius: 8px; /* Slightly rounded corners */
+  padding: 12px 30px;
+
+  /* Shadow/Glow Effect */
+  box-shadow: 0 4px 15px rgba(224, 122, 134, 0.4);
+
+  /* Transitions for smooth hover */
+  transition: all 0.3s ease;
+  cursor: pointer;
+}
+
+.floatingHeaderDivButtonStyle:hover {
+  transform: translateY(-2px); /* Lifts slightly */
+  box-shadow: 0 6px 20px rgba(224, 122, 134, 0.6);
+  filter: brightness(1.1); /* Makes it slightly brighter */
 }
 
 .headerBackgroundVideo {

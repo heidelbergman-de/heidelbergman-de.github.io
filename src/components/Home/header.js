@@ -84,7 +84,7 @@ export default function HomepageHeader() {
     <div className={styles.buttons}>
       <div className={styles.button}>
         <Link
-          className="button button--primary button--lg"
+          className={`button button--primary button--lg  ${styles.floatingHeaderDivButtonStyle}`}
           to="https://heidelberg-triathlon-2026.racepedia.de/"
         >
           Anmeldung
