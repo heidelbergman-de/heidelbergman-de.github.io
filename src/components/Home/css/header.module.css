@@ -1,55 +1,60 @@
+/* CSS Custom Properties for consistency and easier theming */
+:root {
+  --header-blue-light: rgba(100, 149, 237, 0.75);
+  --header-blue-dark: rgba(65, 105, 225, 0.85);
+  --header-blue-deep: rgba(30, 60, 114, 0.9);
+  --header-accent: #e07a86;
+  --header-accent-light: #f0a08d;
+  --glass-blur: blur(5px);
+  --transition-default: 0.3s ease;
+  --shadow-text: 0 1px 3px rgba(0, 0, 0, 0.6), 0 4px 15px rgba(0, 0, 0, 0.4);
+  --shadow-card: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+  --shadow-button: 0 4px 15px rgba(224, 122, 134, 0.4);
+  --shadow-button-hover: 0 6px 20px rgba(224, 122, 134, 0.6);
+}
+
 .headerTagline {
-  font-size: 4vh;
+  font-size: clamp(1.5rem, 4vh, 3rem);
   margin-bottom: 2rem;
   filter: drop-shadow(2px 2px 2px #666);
-  text-shadow:
-    0 1px 3px rgba(0, 0, 0, 0.6),
-    /* Tight shadow for sharpness */ 0 4px 15px rgba(0, 0, 0, 0.4); /* Wide shadow for contrast */
+  text-shadow: var(--shadow-text);
 }
 
 .buttons {
   display: flex;
   align-items: center;
   justify-content: center;
+  gap: 10px;
 }
 
 .button {
-  margin-left: 5px;
-  margin-right: 5px;
+  /* Gap on parent handles spacing */
 }
 
 .headerImageContainer {
   border-radius: 50%;
-  /* background-color: rgba(255, 255, 255, 0.5); */
-  padding: 0.5vh;
-  width: 50vh;
-  /* height: 40rem; */
+  padding: 0.5rem;
+  width: min(50vh, 80vw);
   align-content: center;
   margin-top: 1rem;
 }
 
 .headerImageLogo {
-  width: 50vh;
+  width: 100%;
   margin: 0 auto;
   filter: drop-shadow(0 4px 6px rgba(0, 0, 0, 0.4))
     drop-shadow(0 15px 35px rgba(0, 0, 0, 0.5));
-
-  /* Optional: Smooth transition if you want it to move on hover */
   transition:
-    transform 0.3s ease,
-    filter 0.3s ease;
+    transform var(--transition-default),
+    filter var(--transition-default);
 }
 
 .headerBackground {
   background: radial-gradient(
     circle at 50% 40%,
-    /* Position the center slightly above the middle (near the logo) */
     rgba(100, 149, 237, 0.2) 10%,
-    /* Center: Very light blue, mostly transparent to show the image */
     rgba(65, 105, 225, 0.5) 50%,
-    /* Middle: Mid-tone blue starting to tint the image */
-    rgba(30, 60, 114, 0.9) 100%
-      /* Edges: Deep, solid blue for the vignette effect */
+    var(--header-blue-deep) 100%
   );
   background-size: cover;
   height: 95vh;
@@ -64,65 +69,47 @@
   display: flex;
   margin-top: auto;
   margin-bottom: 0.5rem;
-  background-color: linear-gradient(
-    to bottom,
-    rgba(255, 255, 255, 0),
-    rgba(255, 255, 255, 0.3)
-  );
-  width: 100vw;
+  width: 100%;
   justify-content: center;
-  align-items: center;
-  border-radius: 0%;
-  overflow: visible;
-  flex-wrap: wrap; /* Add flex-wrap to wrap the floating divs on narrow displays */
+  align-items: stretch;
+  flex-wrap: wrap;
+  gap: 1rem;
 }
 
 .floatingHeaderDiv {
-  padding: 0rem;
   background: linear-gradient(
     180deg,
-    rgba(65, 105, 225, 0.85) 0%,
-    rgba(100, 149, 237, 0.75) 100%
+    var(--header-blue-dark) 0%,
+    var(--header-blue-light) 100%
   );
-  margin-right: 1rem;
-  margin-left: 1rem;
-  margin-bottom: 0.5rem;
-  border-radius: 10%;
+  margin: 0 0.5rem 0.5rem;
   display: flex;
-  align-items: top;
-  height: 20vh;
-  width: 26vw;
-  max-width: 30rem;
-  /* box-shadow: 0 0 15px 5px var(--custom-hover-div-background-color); */
-  /* Glassmorphism Effect (Optional: blurs the image behind the card) */
-  backdrop-filter: blur(5px);
-  -webkit-backdrop-filter: blur(5px);
-
-  /* Shape and Layout */
-  border-radius: 15px; /* Softer, larger corners than the button */
-  padding: 20px;
+  align-items: stretch;
+  min-height: 12vh;
+  max-height: 20vh;
+  width: clamp(260px, 25vw, 25rem);
+  backdrop-filter: var(--glass-blur);
+  -webkit-backdrop-filter: var(--glass-blur);
+  border-radius: 15px;
+  padding: 0.75rem;
   color: white;
-
-  /* Border */
   border: 1px solid rgba(255, 255, 255, 0.1);
-
-  /* Shadow to separate it from the main background */
-  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+  box-shadow: var(--shadow-card);
+  overflow: hidden;
 }
 
 .floatingDivRoundImageContainer {
-  /* height: 15rem; */
   border-radius: 10%;
-  content: "";
   display: block;
-  padding-top: (height / width) * 100%;
+  aspect-ratio: 1;
+  height: 100%;
+  max-width: 40%;
+  flex-shrink: 1;
+  overflow: hidden;
 }
 
 .floatingHeaderDivImage {
   border-radius: 10%;
-  position: relative;
-  top: 0;
-  left: 0;
   width: 100%;
   height: 100%;
   object-fit: cover;
@@ -130,166 +117,114 @@
 
 .floatingHeaderDivTextField {
   text-align: center;
-  margin-top: 1rem;
   display: flex;
   flex-direction: column;
-  /* width: 25vh; */
-  max-height: 20vh;
+  flex: 1 0 60%;
+  min-width: 0;
+  overflow: hidden;
+  justify-content: center;
 }
 
 .floatingHeaderDivTextHeader {
-  font-size: clamp(1rem, 1.5vw, 1.5rem);
+  font-size: clamp(0.9rem, 1.5vw, 1.5rem);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
 .floatingHeaderDivTextDesc {
-  margin-bottom: 0.5rem;
-  margin-left: 0.5rem;
-  margin-right: 0.5rem;
+  margin: 0.25rem 0.5rem;
   overflow: hidden;
   text-overflow: ellipsis;
-  max-height: 10rem;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
   font-size: clamp(0.5rem, 1vw, 1rem);
 }
 
 .floatingHeaderDivButton {
   margin-top: auto;
-  margin-bottom: 1rem;
+  flex-shrink: 0;
 }
 
 .floatingHeaderDivButtonStyle {
-  /* font-size: small; */
-  padding-left: clamp(0.5vw, 1.5vw, 2vw);
-  padding-right: clamp(0.5vw, 1.5vw, 2vw);
-  background: linear-gradient(135deg, #e07a86 0%, #f0a08d 100%);
-
-  /* Text Styling */
+  background: linear-gradient(135deg, #e76b90 0%, #d6a17d 100%);
   color: white;
   text-transform: uppercase;
   font-weight: 600;
   letter-spacing: 0.5px;
   text-decoration: none;
-
-  /* Shape */
   border: none;
-  border-radius: 8px; /* Slightly rounded corners */
-  padding: 12px 30px;
-
-  /* Shadow/Glow Effect */
-  box-shadow: 0 4px 15px rgba(224, 122, 134, 0.4);
-
-  /* Transitions for smooth hover */
-  transition: all 0.3s ease;
+  border-radius: 8px;
+  padding: 0.75rem clamp(1rem, 3vw, 2rem);
+  box-shadow: var(--shadow-button);
+  transition:
+    transform var(--transition-default),
+    box-shadow var(--transition-default),
+    filter var(--transition-default);
   cursor: pointer;
 }
 
 .floatingHeaderDivButtonStyle:hover {
-  transform: translateY(-2px); /* Lifts slightly */
-  box-shadow: 0 6px 20px rgba(224, 122, 134, 0.6);
-  filter: brightness(1.1); /* Makes it slightly brighter */
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-button-hover);
+  filter: brightness(1.1);
 }
 
 .headerBackgroundVideo {
   position: absolute;
-  top: 0;
-  left: 0;
+  inset: 0;
   width: 100%;
   height: 100%;
   object-fit: cover;
-  line-height: 0;
-  outline: none;
   z-index: -100;
 }
 
+/* Tablet breakpoint */
 @media (max-width: 1400px) {
-  .headerTagline {
-    font-size: 2rem;
-  }
-  .headerImageLogo {
-    width: 30vw;
-    margin: 0 auto;
-  }
   .headerImageContainer {
     padding: 4rem;
     width: 33vw;
   }
+
+  .headerImageLogo {
+    width: 100%;
+  }
 }
 
-@media (max-width: 768px) {
+/* Mobile & small height - consolidated styles */
+@media (max-width: 768px), (max-height: 600px) {
   .headerTagline {
     font-size: 1.5rem;
   }
+
   .headerImageLogo {
     width: 10rem;
-    margin: 0 auto;
   }
+
   .headerImageContainer {
     padding: 2rem;
     width: 12rem;
   }
-  .floatingDivRoundImageContainer {
-    height: 0;
-    border-radius: 10%;
-  }
-  .floatingHeaderDiv {
-    height: auto;
-    flex-direction: column;
-    background-color: rgba(255, 255, 255, 0);
-    max-width: auto;
-    width: auto;
-    box-shadow: none;
-  }
-  .floatingHeaderDivImage {
-    display: none;
-  }
-  .floatingHeaderDivTextDesc {
-    display: none;
-    height: 0;
-  }
-  .floatingHeaderDivTextHeader {
-    display: none;
-    height: 0;
-  }
-  .floatingHeaderDivTextField {
-    width: auto;
-    max-height: min-content;
-  }
-}
 
-@media (max-height: 600px) {
-  .headerTagline {
-    font-size: 1.5rem;
-  }
-  .headerImageLogo {
-    width: 10rem;
-    margin: 0 auto;
-  }
-  .headerImageContainer {
-    padding: 2rem;
-    width: 12rem;
-  }
   .floatingDivRoundImageContainer {
-    height: 0;
-    border-radius: 10%;
+    display: none;
   }
+
   .floatingHeaderDiv {
     height: auto;
     flex-direction: column;
-    background-color: rgba(255, 255, 255, 0);
-    max-width: auto;
+    background: transparent;
     width: auto;
     box-shadow: none;
   }
-  .floatingHeaderDivImage {
-    display: none;
-  }
-  .floatingHeaderDivTextDesc {
-    display: none;
-    height: 0;
-  }
+
+  .floatingHeaderDivImage,
+  .floatingHeaderDivTextDesc,
   .floatingHeaderDivTextHeader {
     display: none;
-    height: 0;
   }
+
   .floatingHeaderDivTextField {
     width: auto;
     max-height: min-content;
