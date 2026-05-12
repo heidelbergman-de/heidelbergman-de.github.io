@@ -27,9 +27,9 @@ Hier gehts zur Anmeldung: [https://heidelberg-triathlon-2026.racepedia.de/](http
 
 Kommt am  
 
--   Samstag, 25.07.2025 von 16:00 - 18:00 Uhr  
+-   Samstag, 25.07.2026 von 16:00 - 18:00 Uhr  
 
--   Sonntag, 26.07.2025 von 08:00 - 10:00 Uhr 
+-   Sonntag, 26.07.2026 von 08:00 - 10:00 Uhr 
 
 um Eure Startnummern an der Startnummernausgabe  auf der Neckarwiese abzuholen. Es wartet auch eine Überraschung auf Euch! 
 
