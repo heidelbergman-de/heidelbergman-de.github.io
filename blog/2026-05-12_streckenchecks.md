@@ -8,8 +8,8 @@ authors: [orga]
 Die Streckenchecks sind eine tolle Gelegenheit, die Strecken des Heidelberg Triathlons kennenzulernen und sich optimal auf den Wettkampf vorzubereiten. Wir laden alle Teilnehmenden herzlich ein, an den Streckenchecks teilzunehmen.
 
 **Schwimmen im Neckar:**
-- **21. Juni**: Testschwimmen im Neckar @Neckarwiese, Theodor-Heuss-Brücke, 16:00 Uhr (Uferstraße 6, 69120 Heidelberg)
-Bitte meldet euch für das Testschwimmen unverbindlich an, damit wir besser planen können. Ihr könnt euch über den folgenden Link anmelden: [Anmeldung Testschwimmen](https://forms.gle/Tx48annmW2dViHQEA)
+- **21. Juni**: Testschwimmen im Neckar @Neckarwiese, Theodor-Heuss-Brücke, 16:00 Uhr (Uferstraße 6, 69120 Heidelberg).<br/>
+*Bitte* meldet euch für das Testschwimmen unverbindlich an, damit wir besser planen können. Ihr könnt euch über den folgenden Link anmelden: [Anmeldung Testschwimmen](https://forms.gle/Tx48annmW2dViHQEA)
 
 
 **Radstreckenchecks:**
