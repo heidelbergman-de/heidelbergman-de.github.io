@@ -15,11 +15,11 @@ Die Streckenchecks sind eine tolle Gelegenheit, die Strecken des Heidelberg Tria
 **Radstreckenchecks:**
 - **20. Mai**: Radstreckencheck X WattsUpGirls (women only) @ OK Kool Altstad Heidelberg, 18:00 Uhr 
 - **30. Main**: Radstreckencheck X Velociraptors @ Uferstraße 4, 15:00 Uhr
-- more comming soon
+- **07. Juli**: Radstreckencheck X ACE @ Uferstraße 4, 18:00 Uhr
 
 **Laufstreckenchecks:**
 - **11. Mai**: Laufstreckencheck X ACE @ Uferstr. 4, 18:00 Uhr
-- **02. Juli**: Laufstreckencheck X ACE @Neckarorte am Römerbad, 18:45 Uhr
+- **02. Juli**: Laufstreckencheck X cheaper than therapy run club  @ Uferstraße 4, 18:30 Uhr
 
 Die Streckenchecks sind kostenlos und bieten eine großartige Gelegenheit, sich mit der Strecke vertraut zu machen, Tipps von erfahrenen Athlet'innen zu erhalten und die Atmosphäre des Heidelberg Triathlons zu erleben.
 Die Teilnahme an den Streckenchecks ist für alle Teilnehmenden des Heidelberg Triathlons offen, unabhängig von der Distanz, die sie wählen. Wir freuen uns auf zahlreiche Teilnehmer'innen und eine tolle gemeinsame Vorbereitung auf den Wettkampf!
