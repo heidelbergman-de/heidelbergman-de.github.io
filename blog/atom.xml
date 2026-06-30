@@ -2,11 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.heidelberg-triathlon.de/blog</id>
     <title>Heidelberg Triathlon Blog</title>
-    <updated>2026-05-12T00:00:00.000Z</updated>
+    <updated>2026-06-30T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.heidelberg-triathlon.de/blog"/>
     <subtitle>Heidelberg Triathlon Blog</subtitle>
     <icon>https://www.heidelberg-triathlon.de/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Race News]]></title>
+        <id>https://www.heidelberg-triathlon.de/blog/2026/06/30/_race_news2</id>
+        <link href="https://www.heidelberg-triathlon.de/blog/2026/06/30/_race_news2"/>
+        <updated>2026-06-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Staffel]]></summary>
+        <content type="html"><![CDATA[<p><img alt="Staffel" src="https://www.heidelberg-triathlon.de/assets/images/Radfahren-e0dfe158c4bf607c6679201237f63345.png" width="950" height="250"></p>
+<h2 id="save-the-dates">Save the Date(s)</h2>
+<h3 id="last-minute-startplätze">Last minute Startplätze</h3>
+<p>Wie bitte? Es gibt noch Startplätze? Durch glückliche Umstände können wir noch wenige Einzel- sowie Staffel-Startplätze zur Verfügung stellen. <strong>Für diese wird die Anmeldung am 03. Juli um 18 Uhr noch einmal öffnen.</strong> Es gilt "first come, first serve". Also, spread the word – vielleicht wartet in eurem Bekanntenkreis ja noch jemand auf diese Gelegenheit.</p>
+<blockquote>
+<p><strong>WICHTIG:</strong> Die Anmeldung muss bis zum <strong>05. Juli vollständig eingegangen</strong> sein.</p>
+</blockquote>
+<hr>
+<h3 id="streckenchecks-und-community-events">Streckenchecks und Community Events</h3>
+<ul>
+<li><strong>07. Juli:</strong> Radstreckencheck mit <em><strong>ACE Endurance Coaching</strong></em> * <em>Treffpunkt:</em> 18 Uhr, Uferstraße 4</li>
+<li><strong>15. Juli:</strong> Radstreckencheck<!-- -->
+<ul>
+<li>Im Anschluss: <em>Snacks &amp; Drinks im 15High bei unserem Partner <strong>Atlantic Hotel.</strong></em> * <em>Treffpunkt:</em> 18 Uhr, Uferstraße 4. Bitte bringt ein Fahrradschloss mit.</li>
+</ul>
+</li>
+</ul>
+<p>Für unsere Planung haben wir bei manchen Streckenchecks und Community Events eine Anmeldung eingerichtet. Klickt dazu einfach unten auf den Link! Wir freuen uns, euch bei den Events dabei zu haben!</p>
+<h2 id="-zur-anmeldung-für-die-streckenchecks">👉 <a href="https://docs.google.com/forms/d/e/1FAIpQLScNWz9wJsXdUYg0mqryB-v2rUeIqcI1IWhcOUKwo1IbxMLIAw/viewform">Zur Anmeldung für die Streckenchecks</a></h2>
+<h3 id="ummeldungen-sind-noch-bis-zum-05-juli-möglich">Ummeldungen sind noch bis zum 05. Juli möglich</h3>
+<p>Ihr könnt dieses Jahr leider doch nicht teilnehmen und wollt euren Startplatz nun weitergeben? Die Ummeldung ist noch <strong>bis zum 05. Juli um 23:59 Uhr</strong> möglich.</p>
+<p>Meldet euch dafür bitte mit der einspringenden Person in CC per Mail unter <a href="mailto:anmeldung@heidelberg-triathlon.de">anmeldung@heidelberg-triathlon.de</a>. Die Ummeldegebühr beträgt 20 Euro.</p>
+<hr>
+<h3 id="helferinnen-gesucht">Helfer*innen gesucht!</h3>
+<p>Wir sind nach wie vor auf der Suche nach <strong>helfenden Händen</strong> für den Wettkampftag – <strong>insbesondere auf der Rad- und Laufstrecke.</strong> Fragt gerne in eurem Freundes- und Bekanntenkreis herum, ob nicht jemand Zeit und Lust hätte, uns bei der Organisation und euch sowie alle anderen Athlet*innen auf der Strecke zu unterstützen.</p>
+<p>Für alle Helfenden gibt es als Dankeschön nicht nur Verpflegung am Vorabend bei der <strong>Pastaparty</strong> und am Wettkampftag und ein <strong>Shirt</strong>, sondern auch <strong>einen gratis Monat Training bei unserem Hauptsponsor aera Fitness &amp; Health Club.</strong></p>
+<p>👉 <a href="https://lukify.app/vjmzyp">Zur Helferanmeldung</a></p>
+<hr>
+<h3 id="noch-auf-der-suche-nach-einer-übernachtungsmöglichkeit">Noch auf der Suche nach einer Übernachtungsmöglichkeit?</h3>
+<p>Freundlicherweise werden wir auch dieses Jahr vom <strong>Atlantic Hotel</strong> unterstützt. Dieses bietet euch einen <strong>reduzierten Preis</strong> für die Übernachtung in Heidelberg am Wettkampfwochenende. Details dazu folgen in wenigen Tagen.</p>
+<hr>
+<h2 id="viel-freude-beim-training-wünscht-das-orga-team">Viel Freude beim Training wünscht das Orga-Team!</h2>]]></content>
+        <author>
+            <name>Orga Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Streckenchecks]]></title>
         <id>https://www.heidelberg-triathlon.de/blog/2026/05/12/_streckenchecks</id>
@@ -451,23 +493,6 @@ Die Pastaparty ist die perfekte Gelegenheit, um sich gemeinsam auf den kommenden
 <!-- -->Tragt passende Kleidung und Helm – Sicherheit geht vor!<br>
 <!-- -->Seid pünktlich – So können wir gemeinsam starten und die Strecke optimal nutzen.</p>
 <p>Wir sehen uns auf der Strecke! 🚴‍♀️🚴‍♂️</p>]]></content>
-        <author>
-            <name>Orga Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Einzelanmelung voll]]></title>
-        <id>https://www.heidelberg-triathlon.de/blog/2024/06/03/</id>
-        <link href="https://www.heidelberg-triathlon.de/blog/2024/06/03/"/>
-        <updated>2024-06-03T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Staffel]]></summary>
-        <content type="html"><![CDATA[<p><img alt="Staffel" src="https://www.heidelberg-triathlon.de/assets/images/Ergebnisse-7c8a93cf67b0f01d235419b70a5f41ca.png" width="950" height="250"></p>
-<p>🥳 WIR SIND VOLL! 🥳</p>
-<p>💪🏻 Alle Einzelstartplätze sind vergeben, aber ihr könnt euch immer noch mit eurer Familie oder Freunden für eine Staffel anmelden. 🏊🏻🚴🏽‍♂️🏃🏼‍♀️
-Unsere Vorfreude auf das Event steigt mit jedem Tag und wir freuen uns, dass ihr dabei seid!!⚡🎉🏁</p>
-<p>🔥RACE DAY: 28.07.2024 🔥</p>
-<p>📍Heidelberg</p>
-<p>🚀Feiert mit uns das 30. JUBILÄUM🚀</p>]]></content>
         <author>
             <name>Orga Team</name>
         </author>
