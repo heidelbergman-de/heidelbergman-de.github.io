@@ -38,17 +38,17 @@ Anmeldung unter: [Anmeldung Pasta-Party](https://docs.google.com/forms/d/1tHHbxZ
 
 Zeitplan am Sonntag, 26.07.2026
 
-Am Sonntag treffen wir uns alle pünktlich ab 10:15 vor der Bühne. 
+Am Sonntag treffen wir uns alle pünktlich ab 10:15 am Spielplatz **Neckarwiese**. 
 
 -   10:15 Uhr: Lauf Besprechung 
 
--   10:20 Uhr: Gemeinsames Aufwärmen vor der Bühne 
+-   10:20 Uhr: Gemeinsames Aufwärmen
 
 -   10:25 Uhr:  Aufstellen an den Startlinien 
 
 -   10:30 Uhr: Start Nikar4 Kids Lauf (1. Start 200m / 2. Start 400m) 
 
-Strecke: Die Laufstrecke führt die Kinder über die (gesperrte) Uferstraße auf die Neckarwiese direkt auf die Hauptzielgerade ins Ziel. Mit viel Applaus, Musik und Moderation. Ein unvergessliches Erlebnis für alle Sportlerinnen und Sportler! 
+Strecke: Die Laufstrecke führt die Kinder über die Neckarwiese direkt auf die Hauptzielgerade ins Ziel. Mit viel Applaus, Musik und Moderation. Ein unvergessliches Erlebnis für alle Sportlerinnen und Sportler! 
 
 Begleitung: Eltern dürfen den 200m-Lauf gerne mitlaufen, wenn nötig.  
 
