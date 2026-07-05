@@ -116,6 +116,7 @@ Der Heidelberg-Triathlon wird vom SV Nikar Heidelberg organisiert. Ihr habt Frag
 - **Laufen:** [laufen@heidelberg-triathlon.de](mailto:laufen@heidelberg-triathlon.de)
 - **Anmeldung:** [anmeldung@heidelberg-triathlon.de](mailto:anmeldung@heidelberg-triathlon.de)
 - **Gastro & Verpflegung:** [gastro@heidelberg-triathlon.de](mailto:gastro@heidelberg-triathlon.de)
+- **Kinderlauf:** [kinderlauf@heidelberg-triathlon.de](mailto:kinderlauf@heidelberg-triathlon.de)
 - **Helfer:** [helfer@heidelberg-triathlon.de](mailto:helfer@heidelberg-triathlon.de)
 
 Wir freuen uns auf Eure Nachrichten!
