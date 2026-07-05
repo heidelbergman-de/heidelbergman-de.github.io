@@ -24,7 +24,7 @@ title: Merkblatt
 -   Die Pastaparty findet Samstagabend auf der Neckarwiese statt. Die
     Zeit entnimmst du dem Zeitplan.
 
--   Eine Portion inklusive Getränk kostet 5€.
+-   Eine Portion inklusive Getränk kostet 7€.
 
 **Finisher-Shirt**
 
