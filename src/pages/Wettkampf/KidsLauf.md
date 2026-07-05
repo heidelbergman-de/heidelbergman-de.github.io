@@ -33,10 +33,9 @@ Kommt am  
 
 um Eure Startnummern an der Startnummernausgabe  auf der Neckarwiese abzuholen. Es wartet auch eine Überraschung auf Euch! 
 
-Am Samstagabend ab 18 Uhr findet unsere  Pasta Party  supported  by Falk  statt. Kommt und genießt Pasta mit leckeren Soßen, kühle Getränke und eine schöne sportliche Stimmung.\
-Anmeldung unter: [Anmeldung Pasta-Party](https://docs.google.com/forms/d/1tHHbxZKvosAGmkW--T4wtbQQ8HrAj9cUo49eBbezzI0/viewform)
+Am Samstagabend ab 18 Uhr findet unsere  Pasta Party  supported  by Falk  statt. Kommt und genießt Pasta mit leckeren Soßen, kühle Getränke und eine schöne sportliche Stimmung.
 
-Zeitplan am Sonntag, 26.07.2026
+#### Zeitplan am Sonntag, 26.07.2026
 
 Am Sonntag treffen wir uns alle pünktlich ab 10:15 am Spielplatz **Neckarwiese**. 
 
