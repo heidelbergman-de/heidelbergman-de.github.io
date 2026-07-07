@@ -7,6 +7,11 @@ info: Die Bilder liegen auf dem Google Drive von Stephan Klevenz und sind öffen
 
 # Bilder und Medien
 
+## Heidelberg Triathlon 2025
+
+* Quelle: [Sportograf](https://www.sportograf.com/)
+* [Bilder](https://www.sportograf.com/de/event/16037)
+
 ## HeidelbergMan 2024
 [Larasch](https://events.larasch.de/heidelbergman/fotos)
 
