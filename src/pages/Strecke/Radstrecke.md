@@ -33,7 +33,15 @@ Die Bergwertung ist bei Strava auch ein eigenes Segment, sodass ihr im Voraus sc
 
 ### Baustellen-Info
 
-![Baustelle](/img/pages/strecke/Baustellenbereich_Radstrecke_2025.png)
+**Baustellenbereich Neue Schloßstraße!**
+
+![Baustellenbereich Neue Schloßstraße](/img/pages/strecke/Baustellenbereich_Neue_Schlossstrasse_2026.png)
+
+**<span><u>Achtung!</u></span>**
+
+- Notsicherung einer Stützwand führt zu <u>Fahrbahnverengung (rechts)</u>!
+- Im gesamten Baustellenbereich gilt Geschwindigkeit anpassen und <u>Überholverbot</u>!
+- Die Kampfrichter werden Regelverstöße im Baustellenbereich bestrafen.
 
 
 ### Radstrecke zum Download:
