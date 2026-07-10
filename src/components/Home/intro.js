@@ -38,6 +38,11 @@ export default function GradientIntroDiv() {
         <h2 style={{ fontWeight: "normal" }}>Olympische Distanz</h2>
         <h2 style={{ fontWeight: "normal" }}>Staffel</h2>
         <h2 style={{ fontWeight: "normal" }}>Nikar4Kids Kinder-Lauf</h2>
+        <img
+          src="/img/misc/Triathlon-Kurzdistanz-02.png"
+          alt="Triathlon Kurzdistanz"
+          style={{ marginTop: "2rem", maxWidth: "100%", height: "auto" }}
+        />
       </div>
     </div>
   );
