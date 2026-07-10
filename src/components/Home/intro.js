@@ -41,7 +41,7 @@ export default function GradientIntroDiv() {
         <img
           src="/img/misc/Triathlon-Kurzdistanz-02.png"
           alt="Triathlon Kurzdistanz"
-          style={{ marginTop: "2rem", maxWidth: "100%", height: "auto" }}
+          style={{ marginTop: "2rem", maxWidth: "70%", height: "auto" }}
         />
       </div>
     </div>
