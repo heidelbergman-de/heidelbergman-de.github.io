@@ -127,7 +127,7 @@
 
 .floatingHeaderDivTextHeader {
   font-size: clamp(0.9rem, 1.5vw, 1.5rem);
-  white-space: nowrap;
+  white-space: normal;
   overflow: hidden;
   text-overflow: ellipsis;
 }

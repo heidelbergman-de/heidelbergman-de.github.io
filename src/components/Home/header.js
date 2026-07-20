@@ -17,10 +17,17 @@ const floatingDivs = [
   // },
   {
     img_path: "img/startpage/header/s03.png",
-    headline: "Wettkampf-Infos",
-    text: "Alles zum Wettkampf...",
-    button_text: "Infos",
-    button_link: "Wettkampf/Merkblatt/",
+    headline: (
+      <>
+        Wettkampf
+        <br />
+        besprechung
+      </>
+    ),
+    text: "Zur Wettkampfbesprechung...",
+    button_text: "PDF öffnen",
+    button_link: "/misc/Wettkampfbesprechung.pdf",
+    isStaticFile: true,
   },
   {
     img_path: "img/startpage/header/s01.png",
@@ -59,12 +66,21 @@ function FloatingDiv(props) {
         <h4 className={styles.floatingHeaderDivTextHeader}>{props.headline}</h4>
         <p className={styles.floatingHeaderDivTextDesc}>{props.text}</p>
         <div className={styles.floatingHeaderDivButton}>
-          <Link
-            className={`button button--primary button--lg ${styles.floatingHeaderDivButtonStyle}`}
-            to={props.button_link}
-          >
-            {props.button_text}
-          </Link>
+          {props.isStaticFile ? (
+            <a
+              className={`button button--primary button--lg ${styles.floatingHeaderDivButtonStyle}`}
+              href={props.button_link}
+            >
+              {props.button_text}
+            </a>
+          ) : (
+            <Link
+              className={`button button--primary button--lg ${styles.floatingHeaderDivButtonStyle}`}
+              to={props.button_link}
+            >
+              {props.button_text}
+            </Link>
+          )}
         </div>
       </div>
     </div>

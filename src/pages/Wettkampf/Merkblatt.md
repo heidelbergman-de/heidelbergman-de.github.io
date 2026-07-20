@@ -2,10 +2,17 @@
 title: Merkblatt
 ---
 
+
 ![Merkblatt](/img/banner/RundUm.jpeg)
 
 ### Wichtige Infos zum Wettkampf
 <br/>
+
+#### Wettkampfbesprechung
+
+[Wettkampfbesprechung als PDF öffnen](/misc/Wettkampfbesprechung.pdf)
+
+#### Infos
 
 **Startnummernausgabe**
 
