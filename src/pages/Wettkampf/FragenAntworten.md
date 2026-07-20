@@ -18,7 +18,7 @@ title: Fragen und Antworten
 **Antwort:** Ja, aber nur wenn die Wassertemperatur unter 16.0°C  liegt. Das ist allerdings in den letzten Jahren nie vorgekommen. 
 
 **Frage:** Wie kalt ist der Neckar? \
-**Antwort:** Die Temperatur wird am Wettkampftag gemessen und bei der Wettkampfbesprechung bekannt gegeben. Ein groben Überblick über die Wassertemperatur des Neckars gibt es beim LUBW: https://www.lubw.baden-wuerttemberg.de/wasser/ueberblick-neckar. 
+**Antwort:** Die Temperatur wird am Wettkampftag gemessen und bei der Wettkampfbesprechung bekannt gegeben. Ein groben Überblick über die Wassertemperatur des Neckars gibt es beim LUBW: [https://niz.baden-wuerttemberg.de/oberflaechengewaesser/gueteparameter](https://niz.baden-wuerttemberg.de/oberflaechengewaesser/gueteparameter?view=0&id=2858) / https://www.lubw.baden-wuerttemberg.de/wasser/fliessgewaesserdaten . 
 
 **Frage:** Kann ich beim Schwimmstart noch Sachen abgeben? \
 **Antwort:** Ja, es gibt eine Kleider-Beutel-Abgabe. Diese ist in der Nähe des Schwimmstarts. Bitte beachtet, dass die Kleider in einem mit deiner Startnummer gut beschrifteten oder beklebten Beutel abgegeben werden müssen.
