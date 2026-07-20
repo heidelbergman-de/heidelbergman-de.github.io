@@ -3,7 +3,7 @@ title: TauschZone beim Heidelberg Triathlon 2026
 authors: [orga]
 ---
 
-![TauschZone beim Heidelberg Triathlon 2026](/blog/2026_07_20_tauschzone.jpg)
+![TauschZone beim Heidelberg Triathlon 2026](/blog/2026_07_20_tauschzone.png)
 
 Gib Deinem alten Triathlon-Equipment eine neue Bühne: Beim Heidelberg Triathlon erwartet Dich unsere **TauschZone für gut erhaltene Sportausrüstung**!
 
