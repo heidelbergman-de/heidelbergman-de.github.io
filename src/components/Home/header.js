@@ -25,7 +25,7 @@ const floatingDivs = [
       </>
     ),
     text: "Zur Wettkampfbesprechung...",
-    button_text: "PDF öffnen",
+    button_text: "Infos",
     button_link: "/misc/Wettkampfbesprechung.pdf",
     isStaticFile: true,
   },
