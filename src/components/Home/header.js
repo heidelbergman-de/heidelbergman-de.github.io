@@ -45,10 +45,10 @@ const floatingDivs = [
   // },
   {
     img_path: "img/startpage/header/s02.png",
-    headline: "Helfer",
-    text: "Werde Teil des Teams und hilf mit...",
-    button_text: "Hilf mit!",
-    button_link: "https://lukify.app/vjmzyp",
+    headline: "Ergebnisse",
+    text: "Zu den Ergebnissen...",
+    button_text: "Ergebnisse!",
+    button_link: "https://heidelberg-triathlon-2026.racepedia.de/ergebnisse",
   },
 ];
 
