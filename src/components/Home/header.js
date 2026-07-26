@@ -101,9 +101,9 @@ export default function HomepageHeader() {
       <div className={styles.button}>
         <Link
           className={`button button--primary button--lg  ${styles.floatingHeaderDivButtonStyle}`}
-          to="https://heidelberg-triathlon-2026.racepedia.de/"
+          to="https://heidelberg-triathlon-2026.racepedia.de/liveticker"
         >
-          Anmeldung
+          Live-Ticker
         </Link>
       </div>
       {/* <div className={styles.button}>
