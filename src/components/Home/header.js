@@ -45,10 +45,10 @@ const floatingDivs = [
   // },
   {
     img_path: "img/startpage/header/s02.png",
-    headline: "Ergebnisse",
-    text: "Zu den Ergebnissen...",
-    button_text: "Ergebnisse!",
-    button_link: "https://heidelberg-triathlon-2026.racepedia.de/ergebnisse",
+    headline: "Fotos",
+    text: "Zu den Wettkampf-Fotos...",
+    button_text: "Fotos!",
+    button_link: "https://www.sportograf.com/de/event/19985",
   },
 ];
 
@@ -101,9 +101,9 @@ export default function HomepageHeader() {
       <div className={styles.button}>
         <Link
           className={`button button--primary button--lg  ${styles.floatingHeaderDivButtonStyle}`}
-          to="https://heidelberg-triathlon-2026.racepedia.de/liveticker"
+          to="https://heidelberg-triathlon-2026.racepedia.de/ergebnisse"
         >
-          Live-Ticker
+          Ergebnisse
         </Link>
       </div>
       {/* <div className={styles.button}>
